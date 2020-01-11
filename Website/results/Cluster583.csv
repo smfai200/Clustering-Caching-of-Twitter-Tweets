@@ -1,0 +1,704 @@
+id,lat,lng,text,timeStamp,user_id,mb_cluster,db_cluster,cluster
+378052547958677504,37.40499258,-121.97721003,"At this point @danveloper @ColinHarrington have jumped in the hottub and pool, that is all.",2013-09-12 07:08:45,586612658,76,8.0,76.08
+378113772331626497,37.40194678,-121.97671489,@dysinger Look up David McAllester's Ontic. /cc @bodil @puffnfresh,2013-09-12 11:12:02,45966787,76,8.0,76.08
+378114041186512896,37.40194678,-121.97671489,"@bodil I don't think the world needs yet another HM language, honestly. /cc @dysinger @puffnfresh",2013-09-12 11:13:07,45966787,76,8.0,76.08
+378173740879593472,37.4019968,-121.9767251,@loverdos Except we already know where HM is on the lambda cube. Its limitations are well-known. /cc @bodil @dysinger @puffnfresh,2013-09-12 15:10:20,45966787,76,8.0,76.08
+378174077967405056,37.4019968,-121.9767251,"@loverdos By contrast, look at Tim Sweeney/Intel Labs new language. /cc @bodil @dysinger @puffnfresh",2013-09-12 15:11:40,45966787,76,8.0,76.08
+378178798182998016,37.40440899,-121.97532177,Last day at #s2gx (@ Santa Clara Convention Center w/ 2 others) http://t.co/kxhjaVHFr5,2013-09-12 15:30:26,20446268,76,8.0,76.08
+378181314152628224,37.4036877,-121.9764884,#tbt. I miss these girls. They've seen me at my questionable best and absolute worst. Glad to have them as #bff http://t.co/thRpzq5jJX,2013-09-12 15:40:26,31625417,76,8.0,76.08
+378183318552182784,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/6xDfg1OAAw,2013-09-12 15:48:24,36204256,76,8.0,76.08
+378183350223388672,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) http://t.co/kw6NhgAdEE",2013-09-12 15:48:31,36204256,76,8.0,76.08
+378183377964498945,37.4022281,-121.97815059,"I'm at The Server Room - @citrixux (Santa Clara, CA) http://t.co/ZZHJZe810b",2013-09-12 15:48:38,36204256,76,8.0,76.08
+378183419198701568,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/4PL2bvSzoR",2013-09-12 15:48:48,36204256,76,8.0,76.08
+378191756363169792,37.401847,-121.978536,Getting ready to learn about the future of storage @Ceph days. http://t.co/xLg6vkR0Yb,2013-09-12 16:21:55,14610077,76,8.0,76.08
+378196715129831424,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) w/ 2 others http://t.co/IbRjcNDZp1",2013-09-12 16:41:38,131768205,76,8.0,76.08
+378197599180034049,37.40506638,-121.97660674,"I'm at Hyatt Regency Santa Clara (Santa Clara, CA) w/ 3 others http://t.co/0rO9iHlsTH",2013-09-12 16:45:08,14478883,76,8.0,76.08
+378197662732128256,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) w/ 3 others http://t.co/kSvZAAs8of",2013-09-12 16:45:24,14478883,76,8.0,76.08
+378221351980769280,37.40229683,-121.97815059,"I'm at Citrix Cafeteria (Santa Clara, CA) http://t.co/0dwwyDfcxR",2013-09-12 18:19:31,36204256,76,8.0,76.08
+378221385396805632,37.40226662,-121.97808951,"I'm at Citrix Secret Room (Santa Clara, CA) http://t.co/RLCKZFY8sd",2013-09-12 18:19:39,36204256,76,8.0,76.08
+378221410252238848,37.40221872,-121.97805619,"I'm at Citrix Solutions Lab (Santa Clara, CA) http://t.co/7MHmAvt2GO",2013-09-12 18:19:45,36204256,76,8.0,76.08
+378227691347910656,37.40484238,-121.97718858,At @bobbywarner 's Building Apis talk. Good stuff! http://t.co/2XgTmqxQBm,2013-09-12 18:44:43,586612658,76,8.0,76.08
+378229130061295616,37.40397643,-121.97805179,@venkat_s When do you leave SJC and arrive in BOS?,2013-09-12 18:50:26,7078572,76,8.0,76.08
+378260693192941568,37.40484238,-121.97718858,Very cool telco dropped calls demo using gemfire and spring integration with Lyndon Adams #s2gx @lyndonadams http://t.co/3D9e7SHAyn,2013-09-12 20:55:51,586612658,76,8.0,76.08
+378269246792667136,37.40225691,-121.97781184,"I'm at Santa Clara Stadium (Santa Clara, CA) http://t.co/BImoZIo6ru",2013-09-12 21:29:50,36204256,76,8.0,76.08
+378269334776606720,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/W0KcnqmXbR",2013-09-12 21:30:11,36204256,76,8.0,76.08
+378269377709502464,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) http://t.co/ANvYbMzfmk",2013-09-12 21:30:22,36204256,76,8.0,76.08
+378274322907156480,37.40506638,-121.97660674,"So that's what these guys call ""work""... ;) #s2gx @ Hyatt Regency Santa Clara http://t.co/EnAmK8sdGA",2013-09-12 21:50:01,16736130,76,8.0,76.08
+378331245467295744,37.40314023,-121.97780805,@HugoDiazBros just tried to call Mike. Sent a text so he knows where to reach me.,2013-09-13 01:36:12,307456665,76,8.0,76.08
+378349479306752000,37.4047158,-121.97651267,Caramelized peaches and prosciutto. Gasp. @ TusCA Restaurant http://t.co/RLeIMLXYG8,2013-09-13 02:48:39,117841923,76,8.0,76.08
+378385082626486273,37.4050334,-121.9766001,@mthreat @Fersca @mwaisgold glad you guys met up!,2013-09-13 05:10:08,586612658,76,8.0,76.08
+378396208114700288,37.40506638,-121.97660674,Sound engineering at #SpringOne... #s2gx @ Hyatt Regency Santa Clara http://t.co/yqX977XJIZ,2013-09-13 05:54:20,16736130,76,8.0,76.08
+378519123409387520,37.40558201,-121.97638002,@scottyfred @mstine So what do I have to do to get a cf account to try this out on? ;),2013-09-13 14:02:46,40401884,76,8.0,76.08
+378534248224792576,37.40258,-121.976614,A picture of @yanncebron from Intel's Museum http://t.co/SPbPG4tWiE,2013-09-13 15:02:52,13244412,76,8.0,76.08
+378543783052181504,37.403196,-121.9771122,"@sbglasius nice seeing you again, have a nice trip!",2013-09-13 15:40:45,586612658,76,8.0,76.08
+378544591265230850,37.403196,-121.9771122,"Thanks @nofluff and @springone2gx for a great conf, was an honor speaking again to such great folks and attending great sessions!",2013-09-13 15:43:58,586612658,76,8.0,76.08
+378552556907016192,37.40276297,-121.97578685,@dboylo831 I think Floyd is going down this time.,2013-09-13 16:15:37,881325632,76,8.0,76.08
+378574121304875008,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/Dk5d4GzWlo,2013-09-13 17:41:18,36204256,76,8.0,76.08
+378574146965614592,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) http://t.co/SR4LJzKep2",2013-09-13 17:41:24,36204256,76,8.0,76.08
+378574178875891713,37.4022281,-121.97815059,"I'm at The Server Room - @citrixux (Santa Clara, CA) http://t.co/Co6Jn7ptB6",2013-09-13 17:41:32,36204256,76,8.0,76.08
+378574236727906304,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/OM585Rb76e",2013-09-13 17:41:46,36204256,76,8.0,76.08
+378589345030344704,37.40226662,-121.97808951,"I'm at Citrix Secret Room (Santa Clara, CA) http://t.co/DkwWdTrbmX",2013-09-13 18:41:48,36204256,76,8.0,76.08
+378589377578168320,37.40221872,-121.97805619,"I'm at Citrix Solutions Lab (Santa Clara, CA) http://t.co/j5TDzfIoOp",2013-09-13 18:41:56,36204256,76,8.0,76.08
+378589401175322624,37.40229683,-121.97815059,"I'm at Citrix Cafeteria (Santa Clara, CA) http://t.co/JXs2Yj5xEh",2013-09-13 18:42:01,36204256,76,8.0,76.08
+378597194519293952,37.40225691,-121.97781184,"I'm at Santa Clara Stadium (Santa Clara, CA) http://t.co/BdF5lOsj1y",2013-09-13 19:12:59,36204256,76,8.0,76.08
+378597304766566400,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/mja9z1TZFE",2013-09-13 19:13:26,36204256,76,8.0,76.08
+378597339038240768,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) http://t.co/rQ0v7HlU6r",2013-09-13 19:13:34,36204256,76,8.0,76.08
+378683570266447872,37.40290313,-121.97688894,@mikhail_vink and I'm in Santa Clara right now),2013-09-14 00:56:13,13244412,76,8.0,76.08
+378737982997417984,37.40188628,-121.97692353,@kaleidic Very well said indeed--&amp; even mathematics reflects evolving understanding. /cc @takeoutweight,2013-09-14 04:32:26,45966787,76,8.0,76.08
+378738468223873025,37.40185233,-121.97684899,Category Theory did not spring fully formed from the foreheads of Lawvere &amp; Mac Lane.,2013-09-14 04:34:22,45966787,76,8.0,76.08
+378990780343668736,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) http://t.co/OeIaFVnx3L",2013-09-14 21:16:58,16384008,76,8.0,76.08
+379050722345488384,37.40332718,-121.97749511,Off to San Fran #roadtrip #california #westcoastlovin,2013-09-15 01:15:09,431867472,76,8.0,76.08
+379054788916162561,37.4051588,-121.97485322,Today was such a phenomenal day!! :D,2013-09-15 01:31:18,325845749,76,8.0,76.08
+379055041208131584,37.4051588,-121.97485322,It's pretty cold here in Santa Clara. I need that scorching heat from the Valley.,2013-09-15 01:32:18,325845749,76,8.0,76.08
+379055417583607808,37.4051588,-121.97485322,And that my friends is the future 49ers Stadium! http://t.co/gb7yYTfU3x,2013-09-15 01:33:48,325845749,76,8.0,76.08
+379074282284138496,37.40506638,-121.97660674,Congratulations Jimmy &amp; Jaime! #JimJamWedding (@ Hyatt Regency Santa Clara w/ 2 others) [pic]: http://t.co/mXsoY2eVji,2013-09-15 02:48:46,128833492,76,8.0,76.08
+379125897061605377,37.40532923,-121.97653387,Today was too perfect and tomorrow is gunna be even better #kendrick,2013-09-15 06:13:52,255269098,76,8.0,76.08
+379127340770820096,37.40506638,-121.97660674,#wedding #raves are all the #rage! #jimjamwedding @ Hyatt Regency Santa Clara http://t.co/t2FKbZCEsm,2013-09-15 06:19:36,128833492,76,8.0,76.08
+379136204484390912,37.40476069,-121.97657072,With the lil bro @oddfuckingtaco @ Rock the Bells 2013 http://t.co/NubOFGWB3Y,2013-09-15 06:54:49,1088217145,76,8.0,76.08
+379137936308330496,37.40506638,-121.97660674,Fancy. (@ Hyatt Regency Santa Clara) http://t.co/Htuuz2bdDQ,2013-09-15 07:01:42,37837231,76,8.0,76.08
+379260395573100548,37.40529419,-121.97653486,this hotel bed is too comfy ?,2013-09-15 15:08:19,255269098,76,8.0,76.08
+379272672435122176,37.40545781,-121.97676827,"Rock The Bells has been amazing, can't wait for today ?",2013-09-15 15:57:06,204216525,76,8.0,76.08
+379272869068304386,37.40561638,-121.97671,"@ducidni's performances was amazing, he's amazing ?",2013-09-15 15:57:53,204216525,76,8.0,76.08
+379273064963244032,37.40543201,-121.97670861,"@ducidni's performance was amazing, he's amazing ?",2013-09-15 15:58:39,204216525,76,8.0,76.08
+379275384455299072,37.40480145,-121.97658561,aye @YoooManteee you gotta go see cudi,2013-09-15 16:07:52,204216525,76,8.0,76.08
+379292485228703744,37.40440899,-121.97532177,Home and garden show. @ Santa Clara Convention Center http://t.co/Y4x14KySrY,2013-09-15 17:15:50,86224278,76,8.0,76.08
+379293262198345728,37.40440899,-121.97532177,Whiskey chest #homeandgardenshow @ Santa Clara Convention Center http://t.co/DS9KkV7dOE,2013-09-15 17:18:55,86224278,76,8.0,76.08
+379295414689624064,37.40532309,-121.97650874,@jojotheceo ? see you at iamsu lol,2013-09-15 17:27:28,255269098,76,8.0,76.08
+379314734895362048,37.40314458,-121.97716579,@yanncebron @hhariri but we had a really nice day anyway :) who's to blame that we found Starbucks only in the evening,2013-09-15 18:44:14,13244412,76,8.0,76.08
+379443858938920961,37.403552,-121.97717982,"Can I kill this pizza? It looks delicious :Mom: ""yes son"" *me* *stabs the pizza with a knife* ""killed it"" my mom stared at me lol",2013-09-16 03:17:20,123440261,76,8.0,76.08
+379471223421673472,37.40506638,-121.97660674,"I'm at Hyatt Regency Santa Clara (Santa Clara, CA) w/ 3 others http://t.co/j2mMZfUpPa",2013-09-16 05:06:04,37837231,76,8.0,76.08
+379491771786735616,37.40476069,-121.97657072,D-Bo? @ Rock the Bells 2013 http://t.co/RxjhvhKgB1,2013-09-16 06:27:43,1088217145,76,8.0,76.08
+379622699582390272,37.4020724,-121.9786794,What I probably miss most about being young was being naive. As u get older u see alot of bullshit which eventually convinces u not to care,2013-09-16 15:07:59,440628072,76,8.0,76.08
+379624047052849152,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/5fu8E0VBnF,2013-09-16 15:13:20,36204256,76,8.0,76.08
+379624094247157761,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) http://t.co/vzB5K9xT8j",2013-09-16 15:13:31,36204256,76,8.0,76.08
+379624159460216832,37.4022281,-121.97815059,"I'm at The Server Room - @citrixux (Santa Clara, CA) http://t.co/aenpyvd5Bo",2013-09-16 15:13:47,36204256,76,8.0,76.08
+379624191638929408,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/cOcTl4dwcu",2013-09-16 15:13:55,36204256,76,8.0,76.08
+379630486886154240,37.4025818,-121.97825804,"First day in the new job! VP, Cloud Engineering at Citrix. Totally excited! http://t.co/ZDp7A6IJss",2013-09-16 15:38:55,14714597,76,8.0,76.08
+379636172433006592,37.40269797,-121.97833491,@chandna Today is my first day at Citrix as VP of Cloud Engineering. Really excited. Hope you're doing well!,2013-09-16 16:01:31,14714597,76,8.0,76.08
+379639168126570496,37.40253881,-121.97866192,"@lmaugustin I actually use Siri a lot. It's not perfect, but it's useful.",2013-09-16 16:13:25,14714597,76,8.0,76.08
+379642238805897216,37.40271087,-121.97831339,@jamesurquhart @Fountnhead It's totally gonna be fun!,2013-09-16 16:25:37,14714597,76,8.0,76.08
+379642685549596672,37.40258256,-121.97856536,@jamesurquhart Thanks. We gotta go get that lunch/beer we keep talking about soon.,2013-09-16 16:27:24,14714597,76,8.0,76.08
+379679489414152193,37.40221872,-121.97805619,"I'm at Citrix Solutions Lab (Santa Clara, CA) http://t.co/fsN9yo9wUo",2013-09-16 18:53:39,36204256,76,8.0,76.08
+379679549342375936,37.40226662,-121.97808951,"I'm at Citrix Secret Room (Santa Clara, CA) http://t.co/4suBm5A8Xt",2013-09-16 18:53:53,36204256,76,8.0,76.08
+379679588127105025,37.40229683,-121.97815059,"I'm at Citrix Cafeteria (Santa Clara, CA) http://t.co/7jalUE6PTx",2013-09-16 18:54:02,36204256,76,8.0,76.08
+379686413954191360,37.40225691,-121.97781184,"I'm at Santa Clara Stadium (Santa Clara, CA) http://t.co/gGy3Ekg4eY",2013-09-16 19:21:10,36204256,76,8.0,76.08
+379686485043449857,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/Muu5Z9p0le",2013-09-16 19:21:26,36204256,76,8.0,76.08
+379686522976747520,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) http://t.co/7ww0pSUO6s",2013-09-16 19:21:35,36204256,76,8.0,76.08
+379699139384467456,37.40212304,-121.97910436,@Fountnhead Just saw that. Not mine actually. Mine has black wheels. ;-),2013-09-16 20:11:43,14714597,76,8.0,76.08
+379703271801491456,37.4019854,-121.9786192,Some men just want to watch the world burn. Heart goes out to the families of the D.C. victims today,2013-09-16 20:28:09,440628072,76,8.0,76.08
+379811480436097024,37.40171757,-121.97836259,It is hard to watch the #Steelers #MNF  bad all over,2013-09-17 03:38:08,46198852,76,8.0,76.08
+379975877888835584,37.4025489,-121.97687209,"Gorgeous morning in Silicon Valley, and a nice view of #citrix from my hotel room. @ Hilton Santa Clara http://t.co/ZaU0YyZeYm",2013-09-17 14:31:23,100118153,76,8.0,76.08
+379998569811701760,37.4022281,-121.97815059,"I'm at The Server Room - @citrixux (Santa Clara, CA) http://t.co/OI20Ny46B3",2013-09-17 16:01:33,36204256,76,8.0,76.08
+379998663990583296,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/JAjuYB2DIg,2013-09-17 16:01:56,36204256,76,8.0,76.08
+379998696555167744,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) http://t.co/BgY7c7172V",2013-09-17 16:02:03,36204256,76,8.0,76.08
+379998727173578753,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/q52dEkJuVL",2013-09-17 16:02:11,36204256,76,8.0,76.08
+380011068711792640,37.40226662,-121.97808951,"I'm at Citrix Secret Room (Santa Clara, CA) http://t.co/2CHZrRCFhl",2013-09-17 16:51:13,36204256,76,8.0,76.08
+380011105890099200,37.40229683,-121.97815059,"I'm at Citrix Cafeteria (Santa Clara, CA) http://t.co/nRyjHK0vus",2013-09-17 16:51:22,36204256,76,8.0,76.08
+380011145710813185,37.40221872,-121.97805619,"I'm at Citrix Solutions Lab (Santa Clara, CA) http://t.co/eP0yjXvB36",2013-09-17 16:51:32,36204256,76,8.0,76.08
+380022801576361984,37.4020414,-121.9785847,No such thing as a good protein poop lol,2013-09-17 17:37:51,440628072,76,8.0,76.08
+380043414173384704,37.40225691,-121.97781184,"I'm at Santa Clara Stadium (Santa Clara, CA) http://t.co/x0ierZyMIS",2013-09-17 18:59:45,36204256,76,8.0,76.08
+380043509329563648,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/W2szfGigac",2013-09-17 19:00:08,36204256,76,8.0,76.08
+380043543718658048,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) http://t.co/HEncgyZnOe",2013-09-17 19:00:16,36204256,76,8.0,76.08
+380049230532198400,37.4020384,-121.9786579,One of these days this vulgar mouth of mine is going to get me fired lol,2013-09-17 19:22:52,440628072,76,8.0,76.08
+380049274542641152,37.40327626,-121.97919765,Omgggggg ! Niggas are sooooooooooo lame I swear ?,2013-09-17 19:23:02,118594397,76,8.0,76.08
+380054445159354369,37.4020561,-121.978712,So bored at work,2013-09-17 19:43:35,440628072,76,8.0,76.08
+380062351065489408,37.4064638,-121.97618722,"Fuck that shit I'ma rob a bank, I need $20,000 to make me crazy CHYEAH",2013-09-17 20:15:00,25581877,76,8.0,76.08
+380062836900102144,37.4064359,-121.97621162,@elmaxx MAXX WE HAVE TO COOK.....,2013-09-17 20:16:56,25581877,76,8.0,76.08
+380085806385606656,37.4019307,-121.9786523,Cranky,2013-09-17 21:48:12,440628072,76,8.0,76.08
+380093855544397825,37.4019953,-121.9785909,I need to get pumped #lazinesskills,2013-09-17 22:20:11,440628072,76,8.0,76.08
+380158968079069184,37.40506638,-121.97660674,Cisco Partner Marketing Summit (@ Hyatt Regency Santa Clara) http://t.co/Yg7ye8VXH8,2013-09-18 02:38:55,809092,76,8.0,76.08
+380295416560234496,37.4044737,-121.97718424,Vote for #MEMS in @EDNcom Gadget Freak poll!  http://t.co/92uRMSKvw6 @MEMSGroup,2013-09-18 11:41:07,20599769,76,8.0,76.08
+380295892663689216,37.40462974,-121.97640323,Big kudos to #migmember @PNISensor for their #MEMS #Sensorfusion  http://t.co/yyqBGEIM0E @MEMSGroup,2013-09-18 11:43:01,20599769,76,8.0,76.08
+380296656534523905,37.40442968,-121.97653385,"Yes! there r ""new MEMS"" Congrats 2 #migmember @sand9 on groundbreaking #MEMS #oscillator  http://t.co/FCU5lGhXTl @MEMSGroup @matthewcrowley",2013-09-18 11:46:03,20599769,76,8.0,76.08
+380297486293663744,37.40413005,-121.97739191,Proud #migmember @ARMMobile @ARMEmbedded hosted gr8 #IoT breakfast 9/17 in SantaClara - thx 4 invite to me &amp; #migmember co's! @MEMSGroup,2013-09-18 11:49:20,20599769,76,8.0,76.08
+380298444197216256,37.40459293,-121.97640275,@GNeighbour thanks for tweeting about #MEMS Engr Pgm in  @RAEngNews @OBU_MEMS - tell us more more! @MEMSGroup,2013-09-18 11:53:09,20599769,76,8.0,76.08
+380299836299309056,37.40439769,-121.9769807,Great blog by @GE_Data_Viz on #bigdata analytics #sensors  http://t.co/g09wkVOyPr @Ayasdi @MEMSGroup,2013-09-18 11:58:41,20599769,76,8.0,76.08
+380350721813921793,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/obKLmDgBJR,2013-09-18 15:20:53,36204256,76,8.0,76.08
+380350778390876160,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) w/ 2 others http://t.co/uerPNpxMzW",2013-09-18 15:21:06,36204256,76,8.0,76.08
+380350835546669056,37.4022281,-121.97815059,"I'm at The Server Room - @citrixux (Santa Clara, CA) http://t.co/tN0HYKFrAj",2013-09-18 15:21:20,36204256,76,8.0,76.08
+380350871013711873,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/STB9R7WHEB",2013-09-18 15:21:28,36204256,76,8.0,76.08
+380350964450230273,37.4020726,-121.9787007,I didn't know it snowed in Santa Clara snowflakes all around me lmao,2013-09-18 15:21:51,440628072,76,8.0,76.08
+380351634284752897,37.40227667,-121.97845664,About to kick off #citrixia looking forward to what's in store!,2013-09-18 15:24:30,772299,76,8.0,76.08
+380356015754973184,37.40180381,-121.97851643,The @citrix CEO wears jeans to present to at big meeting. #LikeItHere #FeelsLikeHome,2013-09-18 15:41:55,14714597,76,8.0,76.08
+380358069060136960,37.40184771,-121.97848751,"In strategy, approach trumps resource in many cases  - Templeton  #citrixIA",2013-09-18 15:50:05,772299,76,8.0,76.08
+380363163151368192,37.4018618,-121.9785298,Mark Templeton's incredible design aesthetic translates to technology success! #CitrixIA,2013-09-18 16:10:19,27745459,76,8.0,76.08
+380364361208176640,37.4018665,-121.97851406,"As Citrix focuses on driving customer advocacy, critical in consumerization, it's looking at engaging pre- and post sale #citrixIA",2013-09-18 16:15:05,772299,76,8.0,76.08
+380365172906655745,37.40185757,-121.97850987,"Moible means workplace (and worktime) reinvention, continuity of access, experience is the asset @citrix wants to deliver #citrixIA",2013-09-18 16:18:18,772299,76,8.0,76.08
+380367297166442496,37.40186097,-121.97851776,"customer case study time, think this is one from #citrixsynergy  #citrixIA great customer case, may not be a dry eye in the house after",2013-09-18 16:26:45,772299,76,8.0,76.08
+380372864597508096,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) w/ 2 others http://t.co/sRXvd7t0k6",2013-09-18 16:48:52,159523393,76,8.0,76.08
+380374109160742912,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) w/ 3 others http://t.co/5jQn2dL7IH",2013-09-18 16:53:49,17494064,76,8.0,76.08
+380374905990434817,37.40186001,-121.97846815,"Citrix looking to inspire people, show use cases that humanize the value of IT, make tech invisible #doingitright #citrixIA",2013-09-18 16:56:59,772299,76,8.0,76.08
+380375775280918528,37.40185156,-121.97850238,"Lots of focus on making customers advocates, true challenge may lie in getting trad IT shops to take first step toward change #citrixIA",2013-09-18 17:00:26,772299,76,8.0,76.08
+380380256169132032,37.40184353,-121.97849054,"A break in the action at #citrixIA, hoping we get some Q/A time with execs as this would normally be the time for such",2013-09-18 17:18:14,772299,76,8.0,76.08
+380381276559011840,37.40185292,-121.97856501,@algillen Are you at the Citrix gig? Me too. My 3rd day. Would love to catch up! ?,2013-09-18 17:22:18,14714597,76,8.0,76.08
+380381651554926592,37.40185456,-121.97854948,@vd @jamesurquhart That's private! ?,2013-09-18 17:23:47,14714597,76,8.0,76.08
+380390115345846272,37.40183858,-121.97850178,@nflambert :-( http://t.co/apZBRHkZNE,2013-09-18 17:57:25,330437307,76,8.0,76.08
+380390195159646209,37.40183858,-121.97850178,@nflambert you must've broken the cloud! ;-),2013-09-18 17:57:44,330437307,76,8.0,76.08
+380390489159393280,37.40182906,-121.97847702,“@mobilityjourney: #ios 7 day 0 support from @mobileiron #emm #MDm http://t.co/vluy9GOYlG” &lt; congrats! Pls Tell Josh Sirota I said hello :-),2013-09-18 17:58:54,330437307,76,8.0,76.08
+380392276138405888,37.4018722,-121.97846804,#Citrix working to educate the market: desktop as a service (even w heavy apps) isn't 2nd rate experience #citrixIA,2013-09-18 18:06:00,772299,76,8.0,76.08
+380392581240479744,37.40221872,-121.97805619,"I'm at Citrix Solutions Lab (Santa Clara, CA) http://t.co/rBGwPzbalJ",2013-09-18 18:07:13,36204256,76,8.0,76.08
+380393635550076928,37.40185467,-121.9784697,"Managing mobile isn't just MDM MAM or MxM, it's about providing a secure, extensible platform for work anywhere. Amen. #CitrixIA",2013-09-18 18:11:24,772299,76,8.0,76.08
+380396425978212352,37.40184454,-121.97849863,Brand unification across Citrix social collab and mobile tools. #CitrixIA http://t.co/wNt1BmATai,2013-09-18 18:22:30,772299,76,8.0,76.08
+380397385773756416,37.40185814,-121.97851585,"Customer testimonials in Dutch say the same thing, the tech touches  ""alles werk, met alles,"" all work, with everyone #CitrixIA",2013-09-18 18:26:18,772299,76,8.0,76.08
+380398003095212032,37.40185252,-121.97854279,@jamesurquhart Happening already!,2013-09-18 18:28:46,14714597,76,8.0,76.08
+380412352187105280,37.402355299999996,-121.97851712,"Chocolate covered fortune cookie and caramel apple egg roll. @ Citrix Systems, Inc http://t.co/rseGSX8rFV",2013-09-18 19:25:47,2601491,76,8.0,76.08
+380420788719202304,37.4020083,-121.9785999,Can't tell if @internetkatelyn is gullible or dumb lol,2013-09-18 19:59:18,440628072,76,8.0,76.08
+380433651357712384,37.40185339,-121.97845932,"@derek32smith I read the strategy as delivering a tool, regardless of underlying app, on any platform, consistently cc @bobegan",2013-09-18 20:50:25,772299,76,8.0,76.08
+380434537186340864,37.40186369,-121.97847011,hearing only a bit about partners who arguably play a major role in moving a cust from tactical to strategic #citrixIA,2013-09-18 20:53:56,772299,76,8.0,76.08
+380448122888916992,37.40642685,-121.97612597,IOS 7 must be placing one helluva strain on networks everywhere.,2013-09-18 21:47:55,202218452,76,8.0,76.08
+380450784191975424,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/mtFALjZ9cU",2013-09-18 21:58:30,36204256,76,8.0,76.08
+380450815808655360,37.40225691,-121.97781184,"I'm at Santa Clara Stadium (Santa Clara, CA) http://t.co/FNZij8Ajp5",2013-09-18 21:58:37,36204256,76,8.0,76.08
+380450845869240320,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) http://t.co/7weA1PcShE",2013-09-18 21:58:44,36204256,76,8.0,76.08
+380471728608378880,37.40216814,-121.978445,30 mins into using #ios7 apps that bring up the legacy keyboard already look dated.,2013-09-18 23:21:43,772299,76,8.0,76.08
+380571529186004992,37.4027094,-121.9764248,"Accelerate backups with the @Dell DR4100 and Netvault, by up to 275% - thats some serious performance! http://t.co/KLYp0p41Nr @DellSoftware",2013-09-19 05:58:17,61359492,76,8.0,76.08
+380674353882361856,37.4027094,-121.9764248,@Chris_efas @Ravel_Todd couldnt agree more she is a star!  Thank you for your business!,2013-09-19 12:46:53,61359492,76,8.0,76.08
+380675616636272641,37.4027094,-121.9764248,@Chris_efas @MichaelDell @Ravel_Todd thx Chris...it was all Ravel and the team in our @Dell support group!  Thank you for your business!,2013-09-19 12:51:54,61359492,76,8.0,76.08
+380711241121267712,37.40207,-121.9787034,After 7 hours of sleep I feel fucking chipper today and no I'm not being sarcastic lol carp diem my nigs,2013-09-19 15:13:27,440628072,76,8.0,76.08
+380712515044671488,37.4019988,-121.9786048,After 7 hours of sleep I feel fucking chipper and no I'm not being sarcastic lol carpe diem my nigs it's almost the weekend!,2013-09-19 15:18:31,440628072,76,8.0,76.08
+380725322234466304,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) w/ 3 others http://t.co/wKvKyviq9i",2013-09-19 16:09:25,159523393,76,8.0,76.08
+380732473984172032,37.40440899,-121.97532177,?????? (@ Santa Clara Convention Center w/ 9 others) http://t.co/52jIgli1YZ,2013-09-19 16:37:50,104511724,76,8.0,76.08
+380734068239130624,37.40184903,-121.97844261,"#CitrixIA event great combination of vision, strategy, customer, benefit, and execution. Tremendous insight into why Citrix succeeds.",2013-09-19 16:44:10,27745459,76,8.0,76.08
+380737181549330432,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/5QndVh9Xiy,2013-09-19 16:56:32,36204256,76,8.0,76.08
+380737228122906624,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) w/ 4 others http://t.co/M54gtc4tVk",2013-09-19 16:56:43,36204256,76,8.0,76.08
+380737352966373376,37.4022281,-121.97815059,"I'm at The Server Room - @citrixux (Santa Clara, CA) http://t.co/Ed4WljlBrq",2013-09-19 16:57:13,36204256,76,8.0,76.08
+380737423736864768,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/by7C4Q98QK",2013-09-19 16:57:30,36204256,76,8.0,76.08
+380740116697714688,37.40227782,-121.97849049,I couldn't have timed it better than to join the same week as the Citrix Analyst conf.  Getting the big picture on everything. #CitrixIA,2013-09-19 17:08:12,14714597,76,8.0,76.08
+380742446323220480,37.40231073,-121.9784618,@TorstenVolk Sun never figured out the recipe to really integrate acquisitions. Amazing to see how well Citrix has done that.,2013-09-19 17:17:27,14714597,76,8.0,76.08
+380746421437485057,37.40273311,-121.97841343,“@jyarmis: @bobegan give @lauriemccabe a hug for me” hugs back!,2013-09-19 17:33:15,17817175,76,8.0,76.08
+380746532431335424,37.40273311,-121.97841343,“@bobegan: I just met the elegant a lovely @lauriemccabe in person! Yea me!” &lt; great to meet you live!,2013-09-19 17:33:41,17817175,76,8.0,76.08
+380750077813616640,37.40185443,-121.97859745,User-motivated mobile virt strategies push envelope while IT led desktop virt strategy convos are still in education phase #citrixia,2013-09-19 17:47:47,772299,76,8.0,76.08
+380755885016248320,37.4019977,-121.978604,I hate my job bc I spend so much time clothes shopping online,2013-09-19 18:10:51,440628072,76,8.0,76.08
+380756210049630208,37.4020077,-121.9785848,@Jeanniebetch I'm glad u understand my struggle lol,2013-09-19 18:12:09,440628072,76,8.0,76.08
+380757740261359616,37.40537927,-121.97643359,“@nafpaktian: @lazvek http://t.co/I5hcJjG22x” - and this is why I always overspend when I go to Costco.,2013-09-19 18:18:14,194440779,76,8.0,76.08
+380760158445780992,37.40215225,-121.97828034,"@bobegan mobile use cases demand solutions while desktop use cases ask ""can we?"" Funny as desktop is the older tech #CitrixIA",2013-09-19 18:27:50,772299,76,8.0,76.08
+380762244226629632,37.40226962,-121.97854756,"@AndiMann @matteastwood Prague. Hands down for me -- if you're only considering big cities. Otherwise, find me a beach!",2013-09-19 18:36:07,14714597,76,8.0,76.08
+380770910162395137,37.404498,-121.976334,#riw #bestclimate SFO vs Moscow vs Amsterdam vs Boston @ Russian Innovation Week 2013 http://t.co/mcBNu0tnsA,2013-09-19 19:10:34,109058758,76,8.0,76.08
+380772820055097344,37.40435143,-121.97599035,Observing how 3 smart SF enthusiasts  trying to explain to Russians features of  Californian culture and entr/nial  ecosystem.No Way.,2013-09-19 19:18:09,1309355665,76,8.0,76.08
+380772824199098368,37.40417892,-121.97630846,I really like new mobile @facebook app #justsaying,2013-09-19 19:18:10,13493142,76,8.0,76.08
+380785309501652992,37.4019852,-121.9786015,@Jeanniebetch u mean yeezus... Hurry up and get here already I need a pig out buddy,2013-09-19 20:07:47,440628072,76,8.0,76.08
+380785826810310656,37.40182735,-121.97847818,"Thank you Mark Templeton's for once again inspiring this week! 
+#CitrixIA",2013-09-19 20:09:50,27745459,76,8.0,76.08
+380786484061945856,37.4018402,-121.9784828,"Thank you Mark Templeton for once again inspiring us this week!
+#CitrixIA",2013-09-19 20:12:27,27745459,76,8.0,76.08
+380787400920035328,37.40440899,-121.97532177,Testing Google Glass @ Santa Clara Convention Center http://t.co/r0TeNwfESo,2013-09-19 20:16:05,16851986,76,8.0,76.08
+380790135807176704,37.40415874,-121.97634431,@shervin wish you were here at Russian Innovation Week - few startups from Azerbaijan I wanted 2 intro u 2,2013-09-19 20:26:57,13493142,76,8.0,76.08
+380794330689961984,37.4042661,-121.9761499,#bargain wifi deal @riw2013! #startup #riw #riw2013 #conference http://t.co/uHBPUalHLh,2013-09-19 20:43:37,1370627269,76,8.0,76.08
+380796579365781504,37.40506638,-121.97660674,HP Meeting (@ Hyatt Regency Santa Clara) http://t.co/5eCnXmDGmr,2013-09-19 20:52:34,14058561,76,8.0,76.08
+380796679227576320,37.40381647,-121.97698639,Thanks to #citrixia for an informative event!,2013-09-19 20:52:57,17817175,76,8.0,76.08
+380800264027918337,37.404197,-121.976271,"IT business has to be creative on Ru labor market. Intel, oDesk, Parallels - all have different approaches http://t.co/OW0IfIo4FT",2013-09-19 21:07:12,164571155,76,8.0,76.08
+380800519700103168,37.40439114,-121.9777019,"RT ""@issaberena: It's true when parents realize they're losing the argument, they'll bring up some irrelevant ass shit ?"" agreed",2013-09-19 21:08:13,90293878,76,8.0,76.08
+380801388084600832,37.4034916,-121.9767382,#RIW2013 oDesk claims that 1 in 3 employees will be hired and managed online by 2020 @ElenaKrasnoperova,2013-09-19 21:11:40,452360651,76,8.0,76.08
+380811061672165376,37.4034916,-121.9767382,"@RIW_USA #RIW2013 Amazing talk by Edward Li, former NASA Astronaut",2013-09-19 21:50:06,452360651,76,8.0,76.08
+380836844893900800,37.40425822,-121.97629575,? ??????? ?????? ???? ??????? ? Google Glass @ Russian Innovation Week 2013 http://t.co/NFqapjlOyn,2013-09-19 23:32:34,19350512,76,8.0,76.08
+380840899774664704,37.40352,-121.9765,@inessaOb @jalak @shaig you made it in NYC! Congratulations!,2013-09-19 23:48:40,109058758,76,8.0,76.08
+380844547296989184,37.40425822,-121.97629575,"The Life Cycle of Innovation panel at #RIW2013 with Dr. James Paulson, Dr Evgeny Zaytsev, Gus Lawlor ,… http://t.co/V8V8SzUHar",2013-09-20 00:03:10,13493142,76,8.0,76.08
+380860018599284736,37.4041635,-121.97630617,At the Russian Innovation Week @OlgaShowTweets #skolkovo http://t.co/5RamrLRHEc,2013-09-20 01:04:39,113586928,76,8.0,76.08
+380875202248572928,37.40591876,-121.97619318,One thing you need to know about me - my man cave will ALWAYS dominate yours.  #SorryFellas @ San… http://t.co/vJF1J1ypx6,2013-09-20 02:04:59,77654986,76,8.0,76.08
+380876750634614784,37.40626091,-121.97718985,"Next up, a Super Bowl one. #MyManCave #Wins @ 49ers Preview Center http://t.co/0dEAWr4Gll",2013-09-20 02:11:08,77654986,76,8.0,76.08
+380891874938347520,37.40440899,-121.97532177,Russian vodka served in ice block ! #riw2013 @ Santa Clara Convention Center http://t.co/Zys41SJ9lI,2013-09-20 03:11:14,13493142,76,8.0,76.08
+380893221724766210,37.40393701,-121.97614973,@jyarmis come over !!,2013-09-20 03:16:35,13493142,76,8.0,76.08
+380893467942993921,37.40416629,-121.97631404,@jyarmis oh :(,2013-09-20 03:17:34,13493142,76,8.0,76.08
+380896663054737408,37.40418497,-121.97632482,@jyarmis there might be!,2013-09-20 03:30:15,13493142,76,8.0,76.08
+380897845609390080,37.40417688,-121.97631908,@jyarmis and I will!,2013-09-20 03:34:57,13493142,76,8.0,76.08
+380898149205692416,37.4034916,-121.9767382,@RIW_USA #RIW2013 @DavidYang I missed time when I worked in my apartment with 3 people,2013-09-20 03:36:10,452360651,76,8.0,76.08
+380910660718051331,37.4041754,-121.9761162,??????? 10 ??????? ) http://t.co/RSeNZQUT8c,2013-09-20 04:25:53,122411265,76,8.0,76.08
+381084006298550272,37.40564348,-121.97694045,I have Dino Spumoni stuck in my head this morning...,2013-09-20 15:54:41,25581877,76,8.0,76.08
+381087361842823168,37.4020637,-121.9787164,Took me a while but now I can finally say I'm used to Greek yogurt lol #itsnottoobad,2013-09-20 16:08:01,440628072,76,8.0,76.08
+381102385088970752,37.4019932,-121.9785865,@Jeanniebetch lol good call I'll bring u a bag of chips instead of a bottle since u don't drink just eat #mspiggy,2013-09-20 17:07:43,440628072,76,8.0,76.08
+381104553611251712,37.4020201,-121.9786408,@Jeanniebetch lmao ur drunk ass would ask the bartender for fries definitely a #snapchatmoment but yea I'm excited! #turnttober,2013-09-20 17:16:20,440628072,76,8.0,76.08
+381106276216111104,37.40440899,-121.97532177,Russian ??????????????……? ?????????????????????????????????????????????????????? (@ Santa Clara Convention Center) http://t.co/pU6BOmhpL1,2013-09-20 17:23:11,5594322,76,8.0,76.08
+381144167076069376,37.40440899,-121.97532177,Russian Innovation Week 2013 (@ Santa Clara Convention Center w/ 3 others) http://t.co/DFnvq77Fd6,2013-09-20 19:53:45,221890998,76,8.0,76.08
+381149999255789568,37.4025489,-121.97687209,"Looks to be a nice hotel - nice room - umm, the view not worth taking a pic (rooftop) (@ Hilton Santa Clara) http://t.co/dW4IiYU6a2",2013-09-20 20:16:55,211656222,76,8.0,76.08
+381153846086868992,37.4020585,-121.9786502,"I wanna go to the gym already =,[",2013-09-20 20:32:13,440628072,76,8.0,76.08
+381155739806355456,37.40415245,-121.97636891,@inessaOb we miss you at #RIW http://t.co/Ja90rXt5au,2013-09-20 20:39:44,109058758,76,8.0,76.08
+381155787911204864,37.40425822,-121.97629574,Industry Trends: #BigData #FastData @RIW_USA #RIW2013 (@ Russian Innovation Week 2013 w/ 2 others) [pic]: http://t.co/rDuwID0UhM,2013-09-20 20:39:56,13762142,76,8.0,76.08
+381157862694584321,37.40448348,-121.97642906,“@RIW_USA: In #Russia it is not so hard to raise early stage capital #RIW2013” Fact or a feeling?,2013-09-20 20:48:10,13762142,76,8.0,76.08
+381164712190152704,37.40417055,-121.97631945,http://t.co/9Asmsx5dym from Russia by @VitalyOber goes after @TalentBin @Entelo @Joberate Signal... Probably Russia focus? @RIW_USA #RIW2013,2013-09-20 21:15:23,13762142,76,8.0,76.08
+381165359274790912,37.40417055,-121.97631945,“@talentbin: RT @BradSnider:@talentbin Hey I would be interested in Acquiring this twitter handle from you.  Can we chat?” Hope you get it!,2013-09-20 21:17:58,13762142,76,8.0,76.08
+381168660301496320,37.4019318,-121.9786442,My circle of friends got smaller over the years but these are realest nigs I know #qualityoverquantity,2013-09-20 21:31:05,440628072,76,8.0,76.08
+381169450671562752,37.40436212,-121.97631153,"#RIW2013 @RIW_USA: How to invest in Russia? Opportunities and Prospects --&gt; Today nearly 300 funds, 30B$, from it VC funds 5B$",2013-09-20 21:34:13,13762142,76,8.0,76.08
+381181173172797440,37.40425822,-121.97629574,"I'm at Russian Innovation Week 2013 (Santa Clara, CA) [pic]: http://t.co/Basnf5AyzN",2013-09-20 22:20:48,1054431,76,8.0,76.08
+381181449149247488,37.40417255,-121.97631115,#RIW2013 @AndrewYNg talks how @coursera is changing the education landscape with #MOOC @RIW_USA http://t.co/AoWOIsyutH,2013-09-20 22:21:54,13762142,76,8.0,76.08
+381195007111081984,37.40417452,-121.97631467,"#RIW2013 @pviljakainen moderating: Building a bridge from Moscow to SF: Russian companies going global from the start --&gt; Really, do they?",2013-09-20 23:15:46,13762142,76,8.0,76.08
+381203741992427520,37.40419,-121.97632,The official end of RIW 2013. On to2014! http://t.co/SHA0Hsaj8h,2013-09-20 23:50:29,385451924,76,8.0,76.08
+381212293092368384,37.40425822,-121.97629575,Choister @ Russian Innovation Week 2013 http://t.co/fR0kER0Nee,2013-09-21 00:24:27,18864548,76,8.0,76.08
+381216517716975616,37.40425822,-121.97629575,Full of smiles with Pekka #riw #smilebig #doingbusinesswithasmile @ Russian Innovation Week 2013 http://t.co/hcH5tvb6JH,2013-09-21 00:41:15,109058758,76,8.0,76.08
+381219491222265858,37.40299821,-121.97670918,Mission flamengou,2013-09-21 00:53:04,95542608,76,8.0,76.08
+381219799746871298,37.40108803,-121.97749793,So falta treinador se demitir agora,2013-09-21 00:54:17,95542608,76,8.0,76.08
+381318912027021312,37.40285595,-121.97651255,I'm definitely the jealous type,2013-09-21 07:28:07,118510736,76,8.0,76.08
+381320283652509696,37.40296204,-121.97671962,@MikeW1lly call radio shack they hooked it up,2013-09-21 07:33:34,118510736,76,8.0,76.08
+381464569203683328,37.4025489,-121.97687209,"Here for the Stanford game, but can't wait until the new Niners stadium is finished! @ Hilton Santa Clara http://t.co/5yCMZhZbiT",2013-09-21 17:06:55,14841861,76,8.0,76.08
+381478411526750209,37.40226662,-121.97808951,Been there. Check! Saturday morning presentations rock. #DMBA #CCA (@ Citrix Secret Room) http://t.co/4yRBuTIYPh,2013-09-21 18:01:55,280548443,76,8.0,76.08
+381517010083254272,37.40440899,-121.97532177,Business trip #SF #rock #slrepyz lol @ Santa Clara Convention Center http://t.co/sxgpqcPAe6,2013-09-21 20:35:18,1103158902,76,8.0,76.08
+381648389601263616,37.40440899,-121.97532177,TU @ Santa Clara Convention Center http://t.co/A8Ht605dGw,2013-09-22 05:17:21,109705045,76,8.0,76.08
+382169612047364096,37.4022281,-121.97815059,"I'm at The Server Room - @citrixux (Santa Clara, CA) http://t.co/9pg4OKbnoH",2013-09-23 15:48:30,36204256,76,8.0,76.08
+382169654401437696,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/Zzdc1VeZKr,2013-09-23 15:48:40,36204256,76,8.0,76.08
+382169687930732544,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) http://t.co/VoZeattvGP",2013-09-23 15:48:48,36204256,76,8.0,76.08
+382169716024168448,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/lX1DhIL2gx",2013-09-23 15:48:55,36204256,76,8.0,76.08
+382187033113792512,37.40580986,-121.97689592,@Feyote @umbralfox @brambu @Kayzewolf @MavMalamute hell yeah! Let's do it again next weekend for the finale :3,2013-09-23 16:57:44,25581877,76,8.0,76.08
+382215269440950272,37.40643154,-121.97621789,@AlflorAlflor I knew something was wonky!,2013-09-23 18:49:56,25581877,76,8.0,76.08
+382220985598246912,37.40226662,-121.97808951,"I'm at Citrix Secret Room (Santa Clara, CA) http://t.co/lh4yClCWNs",2013-09-23 19:12:38,36204256,76,8.0,76.08
+382221014106931200,37.40221872,-121.97805619,"I'm at Citrix Solutions Lab (Santa Clara, CA) http://t.co/QsdtN2WA7Y",2013-09-23 19:12:45,36204256,76,8.0,76.08
+382221046071721986,37.40229683,-121.97815059,"I'm at Citrix Cafeteria (Santa Clara, CA) http://t.co/6uH7GEb4PS",2013-09-23 19:12:53,36204256,76,8.0,76.08
+382276245075271680,37.40225691,-121.97781184,"I'm at Santa Clara Stadium (Santa Clara, CA) http://t.co/ztuAWr8etf",2013-09-23 22:52:13,36204256,76,8.0,76.08
+382276371575480320,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/ir94yyvMYE",2013-09-23 22:52:43,36204256,76,8.0,76.08
+382276540601745408,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) http://t.co/D2joQuDRBR",2013-09-23 22:53:24,36204256,76,8.0,76.08
+382279199861788673,37.40360044,-121.97548493,"I'm at @TheUPSStore (Santa Clara, CA) http://t.co/juygnKlth2",2013-09-23 23:03:58,36204256,76,8.0,76.08
+382404800786075648,37.40225891,-121.97681275,“@TheAtlanticWire: Burger King Changes the Fast Food Game by Introducing Crinkle-Cut Fries http://t.co/iJoziTVcsD”,2013-09-24 07:23:03,338017565,76,8.0,76.08
+382405037894299648,37.40220159,-121.97686713,The taste is on the shape @TheAtlanticWire: Burger King Changes the Fast Food Game by Introducing Crinkle-Cut Fries http://t.co/iJoziTVcsD,2013-09-24 07:24:00,338017565,76,8.0,76.08
+382411757622292480,37.40234577,-121.97685624,How did I miss this? http://t.co/UMKhLPhiOA,2013-09-24 07:50:42,338017565,76,8.0,76.08
+382464413703225344,37.4045,-121.975,Technology Forum â€“ Up to 61% Off http://t.co/yVyn52Nbr8,2013-09-24 11:19:56,563007947,76,8.0,76.08
+382569735793442816,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) http://t.co/nodAtKOshD",2013-09-24 18:18:27,36204256,76,8.0,76.08
+382569781163220992,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/5JYQD66OIE,2013-09-24 18:18:38,36204256,76,8.0,76.08
+382569808161964032,37.4022281,-121.97815059,"I'm at The Server Room - @citrixux (Santa Clara, CA) http://t.co/g7nHIa7LPc",2013-09-24 18:18:44,36204256,76,8.0,76.08
+382569842072911872,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/y74M35FaSl",2013-09-24 18:18:52,36204256,76,8.0,76.08
+382584532526198785,37.40229683,-121.97815059,"I'm at Citrix Cafeteria (Santa Clara, CA) http://t.co/dT5H1L4J59",2013-09-24 19:17:15,36204256,76,8.0,76.08
+382584577703018497,37.40226662,-121.97808951,"I'm at Citrix Secret Room (Santa Clara, CA) http://t.co/4GVuIGNFBi",2013-09-24 19:17:26,36204256,76,8.0,76.08
+382584606526279680,37.40221872,-121.97805619,"I'm at Citrix Solutions Lab (Santa Clara, CA) http://t.co/090yHu3F8Q",2013-09-24 19:17:32,36204256,76,8.0,76.08
+382588401855512576,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/OZQAbT0LhM",2013-09-24 19:32:37,36204256,76,8.0,76.08
+382588436076847105,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) http://t.co/Tq8FZMqWwq",2013-09-24 19:32:45,36204256,76,8.0,76.08
+382588472764416000,37.40225691,-121.97781184,"I'm at Santa Clara Stadium (Santa Clara, CA) http://t.co/SPit0ISWTM",2013-09-24 19:32:54,36204256,76,8.0,76.08
+382610606391431169,37.4015765,-121.97939636,"I'm just going through the motions today.
+.. I need a serious pick me up",2013-09-24 21:00:51,440628072,76,8.0,76.08
+382738481262247937,37.4022929,-121.97683064,"Really needed a great new album to get into. Thanks, @NekoCase  Yours is amazing #airforcebrat #cityswan #callingcards",2013-09-25 05:28:59,338017565,76,8.0,76.08
+382896002329354240,37.403968,-121.9753286,@devin_brugman You look amazing! My morning workday just got off to a brighter start! Thank you! (^_^),2013-09-25 15:54:55,31625417,76,8.0,76.08
+382908911210471424,37.4020795,-121.978668,Not a big fan of fake boobs,2013-09-25 16:46:13,440628072,76,8.0,76.08
+382912240296275969,37.40447018,-121.97493254,Secureworld in full gear &amp;  Dell Security is hear to represent! @DellSecurity @DellEnterprise @Dell http://t.co/2I7iO1iTAU,2013-09-25 16:59:26,590624915,76,8.0,76.08
+382919330390110208,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) w/ 3 others http://t.co/DfejUnxAjO",2013-09-25 17:27:37,36204256,76,8.0,76.08
+382919360643604480,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/rrziICSShA",2013-09-25 17:27:44,36204256,76,8.0,76.08
+382919391039741952,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/6TUQBpSazE,2013-09-25 17:27:51,36204256,76,8.0,76.08
+382919623454511104,37.4018093,-121.9785854,What does a fox say?,2013-09-25 17:28:47,440628072,76,8.0,76.08
+382927699406503936,37.4018733,-121.9786542,@MYKEL0CZ songs been stuck in my head for days now lol.... Ur just mad he didn't say cats go meow then it be an awesome song,2013-09-25 18:00:52,440628072,76,8.0,76.08
+382933748687572992,37.40229683,-121.97815059,"I'm at Citrix Cafeteria (Santa Clara, CA) http://t.co/uGQ3ZsRJAL",2013-09-25 18:24:54,36204256,76,8.0,76.08
+382933800206229505,37.40226662,-121.97808951,"I'm at Citrix Secret Room (Santa Clara, CA) http://t.co/nrFVA9sA9K",2013-09-25 18:25:07,36204256,76,8.0,76.08
+382942247026966528,37.4020659,-121.9786943,Drinking 8 water bottles a day has me flowing like the Nile river,2013-09-25 18:58:41,440628072,76,8.0,76.08
+382951575322247168,37.40248191,-121.97847798,"The cool open-air cafe at Citrix, Santa Clara. http://t.co/Ojn1Nqc2WK",2013-09-25 19:35:45,33211049,76,8.0,76.08
+382957433183694848,37.403624,-121.977465,"Best Bay Locksmith Santa Clara, CA 5% Holiday Discou http://t.co/37lMnc0wq5 SantaClara Locks &amp; Locksmiths Commercial &amp; Industrial #coupon",2013-09-25 19:59:01,124539412,76,8.0,76.08
+382961207386570752,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/8q4xPinPRb",2013-09-25 20:14:01,36204256,76,8.0,76.08
+382961236801249280,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) http://t.co/Ra9DwWI5Hf",2013-09-25 20:14:08,36204256,76,8.0,76.08
+382965983000154112,37.4020769,-121.9786484,"What if we said hashtags in conversation lol ""sup brotha!... Hashtag friend hashtag bitch hashtag ride or die."" Lol it be interesting",2013-09-25 20:33:00,440628072,76,8.0,76.08
+382966255134584832,37.40569184,-121.976875,YEP. MFF2013 APPROVED. Awwwwwwww yeah!!!!!!,2013-09-25 20:34:05,25581877,76,8.0,76.08
+382981847975612416,37.40175349,-121.97894418,I really hope I'm making the right choice here,2013-09-25 21:36:02,440628072,76,8.0,76.08
+383068384013070336,37.40626091,-121.97718985,#2014 season tickets!!??!?! Spend something!!?!!?! Copped eeeeeeeeeeem!!??!! @ 49ers Preview Center http://t.co/neiaz8K3kN,2013-09-26 03:19:54,44039707,76,8.0,76.08
+383075590708158464,37.40626091,-121.97718985,#empire #ninergang @ 49ers Preview Center http://t.co/7dD5ghVWyZ,2013-09-26 03:48:32,44039707,76,8.0,76.08
+383238089881047040,37.40227413,-121.97681437,"Oh hey, Beautiful. Sleep well? http://t.co/ptPRmxK9ma",2013-09-26 14:34:15,338017565,76,8.0,76.08
+383289470692626433,37.4020216,-121.9786869,@DieHardCo any news on when the large oak A's hella t-shirts will be restocked? Been keeping an eye on that for awhile now.,2013-09-26 17:58:25,440628072,76,8.0,76.08
+383301220107972609,37.403968,-121.9753286,"Yes, Jesus heals. But not that way. #JesusSaves http://t.co/nYJL11N4tg",2013-09-26 18:45:06,31625417,76,8.0,76.08
+383309614747779072,37.4022281,-121.97815059,"I'm at The Server Room - @citrixux (Santa Clara, CA) http://t.co/nceofQcotM",2013-09-26 19:18:28,36204256,76,8.0,76.08
+383309666857811968,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/P1KAmxqMJQ,2013-09-26 19:18:40,36204256,76,8.0,76.08
+383309692250116096,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) w/ 2 others http://t.co/0pUwMpLRgU",2013-09-26 19:18:46,36204256,76,8.0,76.08
+383309751997976576,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/toD2hNM3Ba",2013-09-26 19:19:01,36204256,76,8.0,76.08
+383316833584939008,37.40526423,-121.97794049,When you #hashtag things #intersting things start to #happen. #maddecent #DIRTYlife #DIRTYtour #hilarious #nextlevel #OutbreakDay #HOTBOYS,2013-09-26 19:47:09,625027245,76,8.0,76.08
+383320065455972352,37.40440899,-121.97532177,Checando lo mas nuevo en herramientas para la industria. @ Santa Clara Convention Center http://t.co/ILvqSJMpTq,2013-09-26 20:00:00,24619446,76,8.0,76.08
+383320933475561472,37.4019933,-121.9785606,I'm thinking buffalo wild wings tonight,2013-09-26 20:03:26,440628072,76,8.0,76.08
+383322470981578752,37.4019956,-121.9785827,@Jeanniebetch pizza and ranch sounds like the business right now #fatboi,2013-09-26 20:09:33,440628072,76,8.0,76.08
+383326336762519552,37.40229683,-121.97815059,"I'm at Citrix Cafeteria (Santa Clara, CA) http://t.co/rmLTOtXkvv",2013-09-26 20:24:55,36204256,76,8.0,76.08
+383326389157756928,37.40226662,-121.97808951,"I'm at Citrix Secret Room (Santa Clara, CA) http://t.co/cwlHF23gQ9",2013-09-26 20:25:07,36204256,76,8.0,76.08
+383326414382301184,37.40221872,-121.97805619,"I'm at Citrix Solutions Lab (Santa Clara, CA) http://t.co/FWiToawQvO",2013-09-26 20:25:13,36204256,76,8.0,76.08
+383343417113468928,37.4020498,-121.9786873,They should make a food IG seperate. it'll make my dieting easier,2013-09-26 21:32:47,440628072,76,8.0,76.08
+383343876226183168,37.4020498,-121.9786873,@Jeanniebetch hate u =..[,2013-09-26 21:34:36,440628072,76,8.0,76.08
+383350060261867520,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/WULrbGnh6F",2013-09-26 21:59:11,36204256,76,8.0,76.08
+383350131871186944,37.40225691,-121.97781184,"I'm at Santa Clara Stadium (Santa Clara, CA) http://t.co/yFSu3PgSJ2",2013-09-26 21:59:28,36204256,76,8.0,76.08
+383350181129117696,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) http://t.co/matMNMAWoE",2013-09-26 21:59:40,36204256,76,8.0,76.08
+383351602486468608,37.4019215,-121.9786395,he took the seat off his own bike because the way that it felt,2013-09-26 22:05:19,440628072,76,8.0,76.08
+383355676791439361,37.4019715,-121.9786005,@fresaybanana maybe ur eyes are cracked,2013-09-26 22:21:30,440628072,76,8.0,76.08
+383397789192818688,37.4039616,-121.9762816,Hate when people just randomly stop replying ?,2013-09-27 01:08:50,108493244,76,8.0,76.08
+383403907659354112,37.4025489,-121.97687209,Glad Presentation Day is over. #InnovationExpo #3DModeling #BIM @ Hilton Santa Clara http://t.co/K4mJMvwXMh,2013-09-27 01:33:09,210652535,76,8.0,76.08
+383460788629155840,37.40225691,-121.97781184,Nice to have some of my LO's to join me at the Casino Royale Benefit. #realtor #realestate… http://t.co/cFmnXw4c9i,2013-09-27 05:19:11,1274626273,76,8.0,76.08
+383619628817457152,37.4020894,-121.9786564,@tacobell thank you for the lovely late night dinner,2013-09-27 15:50:21,440628072,76,8.0,76.08
+383669888805765120,37.4020226,-121.9786919,I feel like as I'm getting older I'm getting more mature ...nvm i just had to sneeze,2013-09-27 19:10:04,440628072,76,8.0,76.08
+383671006222491648,37.40609689,-121.97731222,Looking forward to going to the Facebook holiday party in December with the cutest date ever.. #dad #bossy #perksofhavingyourdadworkatfb,2013-09-27 19:14:30,17072356,76,8.0,76.08
+383671098581454848,37.4020355,-121.9786761,...cant tell if I'm hungover or just tired hmmmm,2013-09-27 19:14:52,440628072,76,8.0,76.08
+383733383752196096,37.40340496,-121.97741222,Proximo jogo é certo de ganharmos! Zica vai sair,2013-09-27 23:22:22,240084561,76,8.0,76.08
+383743825891430400,37.40301927,-121.97754021,Good luck to all the @avonwalks walkers this weekend in SF! Especially @CarrieDew19 and team #justDEWit . Walking in spirit :),2013-09-28 00:03:52,17072356,76,8.0,76.08
+383746028383399936,37.4057556,-121.97765337,Doing your mascara isn't complete until you've messed up &amp; get it all over your face,2013-09-28 00:12:37,1549103352,76,8.0,76.08
+383746174173204480,37.4055831,-121.97740157,Doing your mascara isn't complete until you've messed up &amp; gotten it all over your face,2013-09-28 00:13:12,1549103352,76,8.0,76.08
+383746719625654272,37.40415736,-121.97636686,"""I don't take constitutional arguments from people with accents.""
+#NerdAlert",2013-09-28 00:15:22,47656428,76,8.0,76.08
+383765948567920640,37.40506638,-121.97660674,"I'm at Hyatt Regency Santa Clara (Santa Clara, CA) http://t.co/VY45jXmSKc",2013-09-28 01:31:46,14325574,76,8.0,76.08
+383790475922399232,37.40440899,-121.97532177,Inspire (@ Santa Clara Convention Center w/ @zackmariscal) http://t.co/PxiivqzSGm,2013-09-28 03:09:14,24147463,76,8.0,76.08
+384078235510005761,37.4025489,-121.97687209,Drinks before the wedding. #family #SJ @ Hilton Santa Clara http://t.co/u1kHHOM25D,2013-09-28 22:12:41,199502789,76,8.0,76.08
+384083158016491520,37.40506638,-121.97660674,With @kogandan #health2con (@ Hyatt Regency Santa Clara w/ 3 others) http://t.co/nttH0u68pi,2013-09-28 22:32:15,16139549,76,8.0,76.08
+384087259592802304,37.40606946,-121.97579593,"I'm at Qwasi (Santa Clara, CA) http://t.co/RyNQravVdR",2013-09-28 22:48:33,14926068,76,8.0,76.08
+384089394921345024,37.40506638,-121.97660674,Chillin! ? (@ Hyatt Regency Santa Clara w/ 6 others) http://t.co/qCB0SJKzMe,2013-09-28 22:57:02,14501539,76,8.0,76.08
+384099615806881793,37.4025489,-121.97687209,Beyond are ready for us?! ??? @abrahamisaninja #beyondwonderland #myfavorites #ilovemyfriends @ Hilton… http://t.co/CNRQLgS20F,2013-09-28 23:37:39,318959189,76,8.0,76.08
+384225366900244480,37.40506638,-121.97660674,Lets do this ! ?? #beyondwonderland #insomniac @ Hyatt Regency Santa Clara http://t.co/7gXRqoZKVa,2013-09-29 07:57:20,397001279,76,8.0,76.08
+384351061248446466,37.405,-121.976,[11:15:50 AM 2013-09-29|SGH-i917|Nitrate|-653.677|ppm] #MoboSens #water,2013-09-29 16:16:48,251482498,76,8.0,76.08
+384401454825353217,37.405,-121.976,[14:36:06 PM 2013-09-29|SGH-i917|Nitrate|-653.677|ppm] #MoboSens #water,2013-09-29 19:37:03,251482498,76,8.0,76.08
+384408315515904001,37.40440899,-121.97532177,Getting ready for the conference. :-) (@ Santa Clara Convention Center) [pic]: http://t.co/DErldzl1zz,2013-09-29 20:04:19,14501539,76,8.0,76.08
+384437174675861505,37.40441054,-121.97537261,@DrDannySands 'finding the right doctor is like finding the right spouse but harder!' #health2con,2013-09-29 21:58:59,22931050,76,8.0,76.08
+384450222690033665,37.40441394,-121.97540057,@HealthcareWen hey you at health2con ?,2013-09-29 22:50:50,8497012,76,8.0,76.08
+384459024155955200,37.405,-121.975,[18:24:41 PM 2013-09-29|SGH-i917|Nitrate|-653.677|ppm] #MoboSens #water,2013-09-29 23:25:48,251482498,76,8.0,76.08
+384459644493500417,37.405,-121.976,[18:27:11 PM 2013-09-29|SGH-i917|Nitrate|1.324|ppm] #MoboSens #water,2013-09-29 23:28:16,251482498,76,8.0,76.08
+384465029183324160,37.40440899,-121.97532177,Wrapping up pre-conference @health2con Doctors embrace new tech - web and mobile. Compliance is concern. http://t.co/KY0Xj4SyQG,2013-09-29 23:49:40,96563635,76,8.0,76.08
+384467666427478016,37.40506638,-121.97660674,"Just arrived to the Health 2.0 Conference, it is going to be a great event again! #health2con http://t.co/Zz4mvFFwNF",2013-09-30 00:00:09,48327400,76,8.0,76.08
+384479135881367552,37.40324252,-121.97732852,#kig,2013-09-30 00:45:43,65782534,76,8.0,76.08
+384482557036744704,37.40339809,-121.97488231,“@travisjgood: How Open Should a Startup CEO be with Staff? Brilliant and spot on http://t.co/zYRrOSuNJJ” gotta love @MarkSustic,2013-09-30 00:59:19,46332443,76,8.0,76.08
+384485887075024896,37.4049794,-121.97669207,Team Finland at Hyatt preparing for tomorrow. #health2con http://t.co/xIzbCUaC0o,2013-09-30 01:12:33,139686099,76,8.0,76.08
+384486817459757057,37.40504199,-121.97671019,Passionate Tekes in California #innovation #finland #health http://t.co/WLAQhM5L1Y,2013-09-30 01:16:15,610091399,76,8.0,76.08
+384486822853623808,37.405,-121.976,[20:09:17 PM 2013-09-29|SGH-i917|Glucose|204.21|ppm] #MoboSens #water,2013-09-30 01:16:16,251482498,76,8.0,76.08
+384492230301343744,37.40541683,-121.97639837,Getting ready for #health2con w Team Finland &amp; @SitraFund &amp; @Tekesfi Looking good!  :),2013-09-30 01:37:45,41080826,76,8.0,76.08
+384492290372558848,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) w/ 3 others http://t.co/SXgt3u5InU",2013-09-30 01:38:00,275729861,76,8.0,76.08
+384502371264368640,37.405,-121.976,[21:16:52 PM 2013-09-29|SGH-i917|Glucose|-653.677|mg/dL] #MoboSens #water,2013-09-30 02:18:03,251482498,76,8.0,76.08
+384504846046728192,37.40488369,-121.97664006,"I'm at The Lobby Bar (Santa Clara, CA) w/ 2 others http://t.co/KGLgmawnQw",2013-09-30 02:27:53,48327400,76,8.0,76.08
+384515206770352128,37.4047158,-121.97651267,"I'm at TusCA Restaurant (Santa Clara, CA) http://t.co/UYTsnqTiG2",2013-09-30 03:09:03,48327400,76,8.0,76.08
+384531097834381312,37.405,-121.976,[23:11:05 PM 2013-09-29|SGH-i917|Glucose|-653.677|mg/dL] #MoboSens #water,2013-09-30 04:12:12,251482498,76,8.0,76.08
+384535558849961984,37.405,-121.976,[21:30:25 PM 2013-09-29|Lumia 900|Glucose|-653.677|mg/dL] #MoboSens #water,2013-09-30 04:29:56,251482498,76,8.0,76.08
+384537177582886912,37.405,-121.976,[23:34:23 PM 2013-09-29|SGH-i917|Glucose|-653.677|mg/dL] #MoboSens #water Xprize,2013-09-30 04:36:22,251482498,76,8.0,76.08
+384538191157395456,37.405,-121.976,[23:39:00 PM 2013-09-29|SGH-i917|Glucose|95.417|mg/dL] #MoboSens #water Xprize,2013-09-30 04:40:23,251482498,76,8.0,76.08
+384547501249810432,37.405,-121.976,[00:16:16 AM 2013-09-30|SGH-i917|Glucose|95.417|mg/dL] #MoboSens #water,2013-09-30 05:17:23,251482498,76,8.0,76.08
+384547669273624576,37.405,-121.976,[00:11:03 AM 2013-09-30|SGH-i917|Glucose|-653.677|mg/dL] #MoboSens #water,2013-09-30 05:18:03,251482498,76,8.0,76.08
+384548290789769216,37.405,-121.976,[22:21:07 PM 2013-09-29|Lumia 900|Glucose|-653.677|mg/dL] #MoboSens #water,2013-09-30 05:20:31,251482498,76,8.0,76.08
+384548292232609794,37.405,-121.976,[22:20:59 PM 2013-09-29|Lumia 900|Glucose|-653.677|mg/dL] #MoboSens #water,2013-09-30 05:20:32,251482498,76,8.0,76.08
+384548867653386241,37.405,-121.976,[00:21:41 AM 2013-09-30|SGH-i917|Glucose|-653.677|mg/dL] #MoboSens #water,2013-09-30 05:22:49,251482498,76,8.0,76.08
+384665316980056064,37.40483348,-121.97779016,@jonslinn pretty much. The whole country is participating :),2013-09-30 13:05:32,139686099,76,8.0,76.08
+384673278612090880,37.4055516,-121.97640275,@cathcoste Onwards and upwards!,2013-09-30 13:37:11,37568811,76,8.0,76.08
+384676491956461568,37.40484769,-121.9766557,"Each NYC prison inmate costs $167,000 a year… the same it would cost to put a young person through four years at Harvard. #nuorillenyt",2013-09-30 13:49:57,139686099,76,8.0,76.08
+384702354207285248,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/Ea2hRzYUnb,2013-09-30 15:32:43,36204256,76,8.0,76.08
+384702422712852480,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) http://t.co/cAyDlA48ye",2013-09-30 15:32:59,36204256,76,8.0,76.08
+384702477918281728,37.4022281,-121.97815059,"I'm at The Server Room - @citrixux (Santa Clara, CA) http://t.co/BWPpU2VGwZ",2013-09-30 15:33:12,36204256,76,8.0,76.08
+384702519890702337,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/i2XrrfhV9w",2013-09-30 15:33:22,36204256,76,8.0,76.08
+384703827556831232,37.40549115,-121.97720019,Excited to be at #health2con!  Look  forward to learning about the future of health and reconnecting.  Coffee anyone?,2013-09-30 15:38:34,285727147,76,8.0,76.08
+384708291861180416,37.40440899,-121.97532177,@ Team Finland Room! :) (@ Santa Clara Convention Center w/ 2 others) http://t.co/0ltd3i9nJd,2013-09-30 15:56:18,27442806,76,8.0,76.08
+384708443657216001,37.40440899,-121.97532177,Ready to rock the Health 2.0 Conference #health2con #siliconvalley #santaclara #ca @ Santa Clara… http://t.co/iFsmjGxK23,2013-09-30 15:56:55,18589039,76,8.0,76.08
+384714140012380160,37.405,-121.975,[09:20:05 AM 2013-09-30|Lumia 900|Glucose|-653.677|mg/dL] #MoboSens #water,2013-09-30 16:19:33,251482498,76,8.0,76.08
+384714372406194177,37.40442847,-121.97590114,Preparing for the @siliconvikings pitching session. #health2con http://t.co/w68YDK0JfA,2013-09-30 16:20:28,139686099,76,8.0,76.08
+384714928981962752,37.405,-121.975,[11:21:21 AM 2013-09-30|SGH-i917|Glucose|-653.677|mg/dL] #MoboSens #water Try1,2013-09-30 16:22:41,251482498,76,8.0,76.08
+384719458839040001,37.40440899,-121.97532177,Made it to #health2con (@ Santa Clara Convention Center w/ 5 others) http://t.co/iJXmN1aRNA,2013-09-30 16:40:41,16429603,76,8.0,76.08
+384723670696198144,37.40440899,-121.97532177,How to seize your #health2 opportunity. BigNDeveloped vs BiggerNlessDeveloped. Let's all go for Saudiaribia+Africa http://t.co/O9mL2PSu9Z,2013-09-30 16:57:25,96563635,76,8.0,76.08
+384725434665283585,37.40506638,-121.97660674,DC to VC at #health2con. This will be fun. (@ Hyatt Regency Santa Clara) http://t.co/R0F7wo18F9,2013-09-30 17:04:26,57052721,76,8.0,76.08
+384728218428665857,37.40451749,-121.97595108,Pitching in session! This is Team Finland! #health2con #healthsv http://t.co/oROZwzm1Av,2013-09-30 17:15:29,139686099,76,8.0,76.08
+384731588233560064,37.40440899,-121.97532177,Health 2.0 Fall Conference #health2con (@ Santa Clara Convention Center w/ 14 others) http://t.co/kiT1vBGF1j,2013-09-30 17:28:53,48327400,76,8.0,76.08
+384733066037448704,37.40441881,-121.9758558,Kristian Ranta on stage presenting the new diabetes movement. Panel convinced of the presentation.  #healthsv #health2con,2013-09-30 17:34:45,139686099,76,8.0,76.08
+384734303218712576,37.40443865,-121.97572435,"Vesa Tornberg, Laturi presenting the next generation of employee wellbeing. #healthsv #health2con http://t.co/nmU73WI0c8",2013-09-30 17:39:40,139686099,76,8.0,76.08
+384734654156529664,37.402064,-121.9787136,"Some ppl are so dramatic on fb obviously ur not dead if u can update ur status before u ""die""",2013-09-30 17:41:04,440628072,76,8.0,76.08
+384735373399953409,37.402064,-121.9787136,@fresaybanana ur a October baby too!? *Slap hands* ur so much cooler to me now lol jk I can't wait for October ..even tho it's tomorrow lol,2013-09-30 17:43:55,440628072,76,8.0,76.08
+384735661623758848,37.40445543,-121.97577825,@ElinaLappalaine kiitos. :),2013-09-30 17:45:04,41080826,76,8.0,76.08
+384736728059092992,37.40470314,-121.97585487,"Inside DC to VC, what a treat!! Packed house #health2con",2013-09-30 17:49:18,1296154748,76,8.0,76.08
+384738676892135424,37.40441876,-121.97581251,"Pasi Töytäri, Premia presenting a new product for the seniors for easier living. #healthsv #health2con",2013-09-30 17:57:03,139686099,76,8.0,76.08
+384739038793433088,37.405,-121.975,[12:57:18 PM 2013-09-30|SGH-i917|Glucose|-95.594|mg/dL] #MoboSens #water,2013-09-30 17:58:29,251482498,76,8.0,76.08
+384739253118177280,37.40456569,-121.97580968,Health2.0 in SiliconValley @health2con #health2con http://t.co/R0yFl227hi,2013-09-30 17:59:20,1857234884,76,8.0,76.08
+384739828610236416,37.40442424,-121.97587726,"Seniors market holds large opportunities, yet need clarity in offering, what is it that you do #pitches #teamfinland #health2con",2013-09-30 18:01:37,32169232,76,8.0,76.08
+384739911368048640,37.40446108,-121.97574581,Kristian from @mendor_com gave a wonderful demo at #health2con !! Diabetes monitoring re-defined! So cool! http://t.co/aLuYhwEuH4,2013-09-30 18:01:57,65178447,76,8.0,76.08
+384741806358798336,37.40439811,-121.9758062,"Markus Mäntynen, @RecoApp on optimal revovering. #healthsv #health2con",2013-09-30 18:09:29,139686099,76,8.0,76.08
+384742044008472577,37.4019893,-121.9786123,Snow patrol is so emo,2013-09-30 18:10:26,440628072,76,8.0,76.08
+384744359930777600,37.40442014,-121.97582602,Epid Research's idea makes a ton of sense according to panel. #healthsv #health2con,2013-09-30 18:19:38,139686099,76,8.0,76.08
+384744556027478016,37.40440899,-121.97532177,Here at #health2.0 conference in Santa Clara capturing video for  #zerodivide #fullhouse here @ Santa… http://t.co/XX82caVOkS,2013-09-30 18:20:25,16954973,76,8.0,76.08
+384745631568248833,37.40483,-121.97751,"Kerroimme Serious Gamesista tuoreessa Talouselämässä, lukekaa juttu printtilehden kasvuyrityssivuilta #HealthSV",2013-09-30 18:24:41,108905689,76,8.0,76.08
+384746299922198528,37.40445409,-121.97572377,"Janne Niittymäki, @SeriousGamesFi has a case of 300 million users and 100 million dollars - playfully but seriously.  #healthsv #health2con",2013-09-30 18:27:20,139686099,76,8.0,76.08
+384748942564401152,37.40440846,-121.97580894,"Kimmo Korhonen, Corefox showing that virtual trainers are the future of fitness.  #healthsv #health2con http://t.co/2zhRu9ttCv",2013-09-30 18:37:50,139686099,76,8.0,76.08
+384749702194819072,37.4042663,-121.9759623,It isn't enough to have the best tech in a hospital - we have to optimize workflows to better serve patients. #health2con,2013-09-30 18:40:51,252447857,76,8.0,76.08
+384750070261760003,37.40471647,-121.97609079,Enjoying @Misfit Shine- I even managed a jog this morning b4 #health2con Thanks @sonnyvu &amp; great meeting u #MedX http://t.co/BTcRpAmakH,2013-09-30 18:42:19,77499002,76,8.0,76.08
+384751299306090496,37.40438015,-121.97587932,"Niko Karstikko, @SportSetter pointing out a solution on how to move the masses. #healthsv #health2con",2013-09-30 18:47:12,139686099,76,8.0,76.08
+384753182791843840,37.40469971,-121.9756355,"Hey #health2con attendees, if you have questions or want to learn more about Hotseat, feel free to hit me or @femelmed up. @Gethotseatapp",2013-09-30 18:54:41,19722052,76,8.0,76.08
+384753404444442624,37.40506638,-121.97660674,Sup #health2con? Arrived and ready! @ Hyatt Regency Santa Clara http://t.co/ML5Ozo6qLw,2013-09-30 18:55:34,229674329,76,8.0,76.08
+384754710827532288,37.40221872,-121.97805619,"I'm at Citrix Solutions Lab (Santa Clara, CA) http://t.co/mqbFN2Shga",2013-09-30 19:00:46,36204256,76,8.0,76.08
+384754734676336640,37.40226662,-121.97808951,"I'm at Citrix Secret Room (Santa Clara, CA) http://t.co/L1AzxvlGl1",2013-09-30 19:00:51,36204256,76,8.0,76.08
+384754771070304257,37.40229683,-121.97815059,"I'm at Citrix Cafeteria (Santa Clara, CA) http://t.co/BM73UkDaSh",2013-09-30 19:01:00,36204256,76,8.0,76.08
+384755156426186752,37.40440899,-121.97532177,Great series of #DCtoVC enterprise startups at #health2con. Tough judging! Now up: policy w/ @NG. [pic]: http://t.co/MJnTkR5jAk,2013-09-30 19:02:32,171754967,76,8.0,76.08
+384755791317581824,37.40165798,-121.97660527,“@Sermo: As of today @sermo is over 200K MDs!  We wanted to thank them! #health2con”,2013-09-30 19:05:03,437779090,76,8.0,76.08
+384756989382782976,37.40467694,-121.97595408,"Affordable Care Act, the online conversation #dc2vc #health2con http://t.co/xTfuI891De",2013-09-30 19:09:49,77499002,76,8.0,76.08
+384757557514215424,37.4020475,-121.9787093,Some guy said he mistaken someone else for me this morning. I replied after recieving a compliment like that it must of made his morning lol,2013-09-30 19:12:04,440628072,76,8.0,76.08
+384757691844812800,37.40445065,-121.97586441,"Juha Pinomaa, @Omegawave ""We measure things that nobody else does."" #healthsv #health2con",2013-09-30 19:12:36,139686099,76,8.0,76.08
+384759405603848192,37.40443696,-121.97589455,Thanks Tommi for the stellar pitch of the great @BpGenetics next gen sequencing service!  #health2con http://t.co/vHnjIwdPOn,2013-09-30 19:19:25,65178447,76,8.0,76.08
+384759560738594816,37.4043963,-121.97586787,"Sumup of VC comments: partnerships, differentiation, value proposition, go-to-market strategies and target groups. #healthsv #health2con",2013-09-30 19:20:02,139686099,76,8.0,76.08
+384759756180967424,37.40428543,-121.97589874,@drnic1 are you at health 2.0 this week? Lets connect there,2013-09-30 19:20:49,11511922,76,8.0,76.08
+384759907397808128,37.4044722,-121.97576363,Blueprint Genetics pitching @siliconvikings @teamfinlandfi  @health2con see you thursday https://t.co/99qFBtksoL http://t.co/1c38Ofv2Ju,2013-09-30 19:21:25,911661313,76,8.0,76.08
+384762592507748352,37.40426254,-121.97599792,"Topic at #health2con-"" Tools that enable coordination and communication among non-physician caregivers, including family and clinic staff """,2013-09-30 19:32:05,11511922,76,8.0,76.08
+384763150689509376,37.4042016,-121.97624537,"Before we can figure out where we want to go, we need to know where we are. We need timely, actionable data. #health2con",2013-09-30 19:34:18,252447857,76,8.0,76.08
+384768578513170432,37.404308,-121.97584876,"I asked a question at #health2con's Employers 2.0 session about ""hiding the data, and revealing the insight"". Good comments from panel!",2013-09-30 19:55:52,88931390,76,8.0,76.08
+384770420916105216,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/S5UUHdFsT1",2013-09-30 20:03:11,36204256,76,8.0,76.08
+384770454546046976,37.40225691,-121.97781184,"I'm at Santa Clara Stadium (Santa Clara, CA) http://t.co/70ushYy80X",2013-09-30 20:03:19,36204256,76,8.0,76.08
+384770493116858368,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) w/ 14 others http://t.co/KswJemVE3m",2013-09-30 20:03:28,36204256,76,8.0,76.08
+384772234914455552,37.40481061,-121.97672372,"#health2con is tremendously business-oriented, which I am not familiar with at all. Will be in sponge mode for the next few days. #squish",2013-09-30 20:10:24,252447857,76,8.0,76.08
+384782559789346817,37.40418134,-121.97631586,#health2con http://t.co/X9AQc7z7US,2013-09-30 20:51:25,1857234884,76,8.0,76.08
+384783690125295616,37.4020513,-121.9786128,"Of all times why am I breaking out now =,(",2013-09-30 20:55:55,440628072,76,8.0,76.08
+384785835121332225,37.40470591,-121.97600562,"@healthblawg yes for sure, I have a stand this year",2013-09-30 21:04:26,77499002,76,8.0,76.08
+384787065348440064,37.4041424,-121.97641083,Keynote now at #health2con. #1 new trend in healthcare tech on the rise - use of activity trackers. #quantifiedself http://t.co/t7EQKyixKT,2013-09-30 21:09:20,22538164,76,8.0,76.08
+384788351456247808,37.40417452,-121.97633196,How do we move from data to decision making ? #health2con,2013-09-30 21:14:26,16567160,76,8.0,76.08
+384790834605879296,37.404936,-121.97655374,"The @madpow booth is up at #health2con. We have a pretty cool announcement during the 2:50 session, stay tuned... http://t.co/dPS3DsOTSa",2013-09-30 21:24:18,14855930,76,8.0,76.08
+384791775899942913,37.40416985,-121.97633623,KP SVP Christine Robisch introduces Gavin Newsom. #health2con,2013-09-30 21:28:03,16567160,76,8.0,76.08
+384795469236699136,37.40440899,-121.97532177,#health2con (@ Santa Clara Convention Center w/ @1charlesh) [pic]: http://t.co/O6oh56MrKk,2013-09-30 21:42:43,7439302,76,8.0,76.08
+384796092644069377,37.40416769,-121.97635064,"""Don't wait for D.C. Remarkable things are happening locally"" Gavin Newsom #health2con http://t.co/w3qNYs0dM3",2013-09-30 21:45:12,16567160,76,8.0,76.08
+384798210247913472,37.4041748,-121.97634125,"'...don't wait for Washington, DC' @GavinNewsom #health2con",2013-09-30 21:53:37,11511922,76,8.0,76.08
+384800181549420544,37.40417358,-121.97634077,"""The nation of trackers"" - 8 out of 10 adults track for health and have 2+ conditions. @SusannahFox   #health2con http://t.co/8rvBl02rHa",2013-09-30 22:01:27,22538164,76,8.0,76.08
+384800762137542657,37.40415272,-121.97635058,“@health2con: More than 1700 people at #Health2con!” Well worth the trip.,2013-09-30 22:03:45,22538164,76,8.0,76.08
+384800944979849216,37.40415254,-121.97635792,"MT @markfriess ""@SusannahFox: self-tracking allows us to hold up our own mirror to understand our personal habits and choices #Health2Con""",2013-09-30 22:04:29,88931390,76,8.0,76.08
+384801566001082368,37.40415424,-121.97635263,"""As a user, look at longer term trend lines within data that is gathered"" via @SusannahFox #revealinsights #gethealth",2013-09-30 22:06:57,88931390,76,8.0,76.08
+384801575102722048,37.40415844,-121.97637482,Amy McDonough from FitBit now on stage. She has 12 million steps in 5 years. http://t.co/CRZLsefzlI,2013-09-30 22:06:59,22538164,76,8.0,76.08
+384801712571035648,37.40414956,-121.9763575,"@liamhq: ""As a user, look at longer term trend lines within data that is gathered"" via @SusannahFox #revealinsights #health2con",2013-09-30 22:07:32,88931390,76,8.0,76.08
+384802673943261184,37.40442953,-121.97609206,Who's using Fitbit? 60% looking to lose weight or get moving. #health2con,2013-09-30 22:11:21,16567160,76,8.0,76.08
+384802852394106880,37.40414826,-121.97635105,"MT @JonahComstock ""@SusannahFox : Pencil and paper turns out to be (still) easier than online/mobile tracking tools"" #health2con",2013-09-30 22:12:03,88931390,76,8.0,76.08
+384802876389740544,37.4044132,-121.97530277,@cpenfold I'm in San Jose. Are we close?,2013-09-30 22:12:09,141464049,76,8.0,76.08
+384803526997594112,37.40417408,-121.97634231,@MayoClinic FitBit study Those who showed more activity within 3 days post surgery had less chance to be readmitted. #QuantifiedSelf,2013-09-30 22:14:44,22538164,76,8.0,76.08
+384803544630435841,37.40489925,-121.97675943,"Sorprendido, Mavish va a pasar las 600K visitas y todavía no cumple un mes. :) Producto Colombiano para el mundo.",2013-09-30 22:14:49,290731176,76,8.0,76.08
+384803612993396738,37.40415636,-121.97635196,"Lead by example? “@drnic1: Working in @fitbit must be hard for biz dev sharing personal #tracker #data with strangers"" #health2con #onstage",2013-09-30 22:15:05,88931390,76,8.0,76.08
+384803865280774144,37.40491292,-121.97676403,"Sorprendido, http://t.co/QRPIKUqKsg va a pasar las 600K visitas y todavía no cumple un mes. :) Producto Colombiano para el mundo.",2013-09-30 22:16:05,290731176,76,8.0,76.08
+384805021084172288,37.404537,-121.97478,Evolent Health gets $100M to 'change the way we care for patients' http://t.co/UYQTY3NBVn,2013-09-30 22:20:41,1078401632,76,8.0,76.08
+384805417936625665,37.40559323,-121.97673012999999,I want to take the second job but that would mean no free time in my life at all,2013-09-30 22:22:15,337491501,76,8.0,76.08
+384808267622264832,37.40417897,-121.97633936,@ALSilvestre Ravi and I would love to see you!,2013-09-30 22:33:35,16567160,76,8.0,76.08
+384810788973576192,37.40413992,-121.97636118,Look what's next door to the #health2con venue: the new San Francisco @49ers stadium http://t.co/e4ul4zv2z7,2013-09-30 22:43:36,88931390,76,8.0,76.08
+384815407875780608,37.40416336,-121.97634125,@tkelsey1 talking about 3 pillars of new #nhs information strategy of information sharing #health2con,2013-09-30 23:01:57,11511922,76,8.0,76.08
+384816053546917888,37.40419388,-121.97628784,@tkelsey1  demonstrating care connecting as part of #nhs choices - unleashing the power of people - brilliant #health2con,2013-09-30 23:04:31,11511922,76,8.0,76.08
+384816154113765377,37.40440899,-121.97532177,#health2con (@ Santa Clara Convention Center w/ 10 others) [pic]: http://t.co/iRQdex1G3S,2013-09-30 23:04:55,17096359,76,8.0,76.08
+384816694444978176,37.40418243,-121.97631073,Hotspots in the care delivery in the public domain - brave and amazing #nhs - nice Demo by @tkelsey1 #health2con,2013-09-30 23:07:04,11511922,76,8.0,76.08
+384818266797277184,37.40418625,-121.97631073,"@tkelsey1  ""NHS spend more than £100, do not use tech enough to make this more effective, lots of opp. for improvements"" #health2con",2013-09-30 23:13:19,11511922,76,8.0,76.08
+384818543318929408,37.40448748,-121.97521826,@cpenfold #fail,2013-09-30 23:14:24,141464049,76,8.0,76.08
+384820461940396032,37.40416406,-121.97633727,@jamie_heywood explaining the business model of @patientslikeme and how difficult it is to change the status quo. http://t.co/MeBfoCNAtl,2013-09-30 23:22:02,22538164,76,8.0,76.08
+384821589931327488,37.40416191,-121.97634595,.@SusannahFox says 7of 10 people are already tracking their health. Pen and paper easiest. Apps have to be easy + seamless. #health2con,2013-09-30 23:26:31,252447857,76,8.0,76.08
+384821810794999808,37.40418427,-121.97626812,We have to hold data up to people as a mirror -@SusannahFox #health2con,2013-09-30 23:27:23,252447857,76,8.0,76.08
+384822255177310208,37.40422425,-121.97611728,"""Ppl don't want electricity, they want tools that use electricity."" -Dave Whitlinger Proof of application is paramount. #health2con",2013-09-30 23:29:09,252447857,76,8.0,76.08
+384822734745632769,37.40421103,-121.97616234,"""It ain't dog food if the dog doesn't eat it."" -Neal Sofian. We have to know what motivates ppl. #health2con",2013-09-30 23:31:04,252447857,76,8.0,76.08
+384828351501701120,37.40445834,-121.9743206,Visit @KPShare booth 404! http://t.co/R4WSgxX29r,2013-09-30 23:53:23,16567160,76,8.0,76.08
+384836688591060992,37.40392221,-121.97579627,CEO @_PeterKirk just delivered a fantastic speech on the heels of showcasing our @floatingdoctors vid CC @health2con http://t.co/ushVcT711U,2013-10-01 00:26:31,437779090,76,8.0,76.08
+384837575330234368,37.40440899,-121.97532177,"Health 2.0 unveils their new brand, merging health + wellness = Wealth 2.0 #health2con #healthit #hit… http://t.co/mJWRFeq9Zm",2013-10-01 00:30:02,18589039,76,8.0,76.08
+384840135956647937,37.40414997,-121.97634531,CEO of @iTriage reminds me -- Drs can really DO anything &amp; so much with their career to make #change ! #doctorlife #visionary #entrepreneur,2013-10-01 00:40:13,21039622,76,8.0,76.08
+384840231490293761,37.40421731,-121.97615203,"On #health2con main stage now is the beautiful Jane Sarasohn-Kahn (@healthythinker) interviewing @PeterHudsonMD, CEO of @iTriage!",2013-10-01 00:40:35,88931390,76,8.0,76.08
+384842329531498497,37.40415708,-121.97635682,"Interesting to note @iTriage's new TRENDS product coming out of beta, showed to #health2con by @PeterHudsonMD https://t.co/qY1McsO1Ok",2013-10-01 00:48:56,88931390,76,8.0,76.08
+384843442230005760,37.40417766,-121.97632128,"@kqkrueger I think the term you mean is ""sticky""?? that's what @healthythinker mentioned on stage earlier :)",2013-10-01 00:53:21,88931390,76,8.0,76.08
+384843900440948736,37.40417207,-121.97630928,@drnic1 me too. What was your weekly total? #leadbyexample :),2013-10-01 00:55:10,88931390,76,8.0,76.08
+384844707043373056,37.40417341,-121.97634379,"MT “@boltyboy: Christine Robbins of @BodyMedia &amp; @Jawbone got there when it had less than $100K in the bank #health2con""",2013-10-01 00:58:22,88931390,76,8.0,76.08
+384855495196307456,37.40506638,-121.97660674,hello california #siliconvalley #health20con #eventprep @ Hyatt Regency Santa Clara http://t.co/bAdPgvJstd,2013-10-01 01:41:14,717096558,76,8.0,76.08
+384857964831444992,37.40484829,-121.97676757,Going to the @health2con speaker reception at 715pm at Hyatt. This is my first time - come say hi!  I'm the outsider from #clinicaltrials,2013-10-01 01:51:03,22538164,76,8.0,76.08
+384861626933190656,37.40440899,-121.97532177,Scandalous booth SWAG at the #health2con reception - #wouldyouuseit? @ Santa Clara Convention Center http://t.co/gDAEiIVXYe,2013-10-01 02:05:36,18589039,76,8.0,76.08
+384866408087031809,37.40443683,-121.97510337,"Yup, gonna be in sponge-mode for the next few days. Soooo much cool stuff in the exhibit hall at #health2con! Definitely see need for UXers",2013-10-01 02:24:36,252447857,76,8.0,76.08
+384894275630030848,37.40487269,-121.97663967,@VictorMathieux :) that seems too similar... I apologize if I subconsciously stole it.,2013-10-01 04:15:20,229674329,76,8.0,76.08
+384895063328698368,37.40503239,-121.97657394,Long day at #health2con. Many smart and passionate people trying to make the world a better place. I love it.,2013-10-01 04:18:28,229674329,76,8.0,76.08
+385057886759432193,37.40182314,-121.97732414,“@DrLindaMD: Everyone is talking abt Obamacare. Watch this to see what makes real healthcare:http://t.co/9ls9SSs2pq @Sermo  @W1_Interactive”,2013-10-01 15:05:28,437779090,76,8.0,76.08
+385058420023230464,37.40182314,-121.97732414,@DrLindaMD @hjsoch @Sermo Thx 2 MDs &amp; Members like u who advocate 4 &amp; support improved patient care/outcomes.  We r doing gr8 things 2gether,2013-10-01 15:07:36,437779090,76,8.0,76.08
+385060467410214912,37.40643408,-121.97621244,"CCNP TSHOOT training day 2. Traffic to get here is so sporadic, yesterday 1 hour 20 minutes, today 50 minutes. Oi vey http://t.co/cuDub9eBGE",2013-10-01 15:15:44,11614172,76,8.0,76.08
+385060744850866176,37.4020533,-121.9786995,Why does this short week feel long to me,2013-10-01 15:16:50,440628072,76,8.0,76.08
+385060940430843904,37.40409446,-121.97643916,"""Microwave is cheaper than a jawbone."" #health2con",2013-10-01 15:17:36,139686099,76,8.0,76.08
+385060989596864512,37.4020533,-121.9786995,@JorellCrescini @Cyanez88 ahoy señoras,2013-10-01 15:17:48,440628072,76,8.0,76.08
+385061582331707392,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/ZkuKLii6vJ,2013-10-01 15:20:09,36204256,76,8.0,76.08
+385061618620850176,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) http://t.co/pYvQVVq5lc",2013-10-01 15:20:18,36204256,76,8.0,76.08
+385061663084650496,37.4022281,-121.97815059,"I'm at The Server Room - @citrixux (Santa Clara, CA) http://t.co/NSeSfQyaGS",2013-10-01 15:20:29,36204256,76,8.0,76.08
+385061702737620992,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/NhiDa0qbjC",2013-10-01 15:20:38,36204256,76,8.0,76.08
+385062285560905728,37.40407568,-121.97644645,"Indu Subayia: ""2,7 trillion spent on health care annually."" #health2con http://t.co/qkt403Affy",2013-10-01 15:22:57,139686099,76,8.0,76.08
+385068565990092801,37.40415392,-121.97633119,"Pekka Kahri, @Tekesfi . First @supercellgames , Clash of Clans, next health. We are #teamfinland #health2con http://t.co/DIAdFdW81k",2013-10-01 15:47:55,139686099,76,8.0,76.08
+385077844302647296,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/OflRLSrego",2013-10-01 16:24:47,26115614,76,8.0,76.08
+385078609787904001,37.40417477,-121.97690653,"“@anildash:Even if a gov shutdown is brief, parents with kids whose cancer treatments are overseen by NIH can't plan on them being reliable""",2013-10-01 16:27:49,8497012,76,8.0,76.08
+385079326854901760,37.40440899,-121.97532177,[Day 2] 2013 Health 2.0 7th Annual Conference: Keynote by Indu Subaiya (@ Santa Clara Convention Center) [pic]: http://t.co/MQJsTpSqMf,2013-10-01 16:30:40,20229919,76,8.0,76.08
+385080276864356352,37.404,-121.974,[09:34:48 AM 2013-10-01|Lumia 900|Glucose|-653.677|mg/dL] #MoboSens #water XPrize!,2013-10-01 16:34:27,251482498,76,8.0,76.08
+385080763164946432,37.40226662,-121.97808951,"I'm at Citrix Secret Room (Santa Clara, CA) http://t.co/Wbe305V9b3",2013-10-01 16:36:23,36204256,76,8.0,76.08
+385080786837598208,37.40221872,-121.97805619,"I'm at Citrix Solutions Lab (Santa Clara, CA) http://t.co/54lRom1Y5U",2013-10-01 16:36:28,36204256,76,8.0,76.08
+385080807842676736,37.40229683,-121.97815059,"I'm at Citrix Cafeteria (Santa Clara, CA) http://t.co/bT3lGoIWK9",2013-10-01 16:36:33,36204256,76,8.0,76.08
+385081856590245888,37.404,-121.974,[09:41:15 AM 2013-10-01|Lumia 900|Glucose|-653.677|mg/dL] #MoboSens #water Go Team MoboSens!,2013-10-01 16:40:43,251482498,76,8.0,76.08
+385082638689521664,37.40417,-121.97634,At the Santa Clara Convention Center with my new @Healthline colleagues for #Health2con. (at Health 2.0) — https://t.co/EQDEAZPf0N,2013-10-01 16:43:50,697593,76,8.0,76.08
+385083464518627328,37.404,-121.974,[11:40:00 AM 2013-10-01|SGH-i917|Glucose|-653.677|mg/dL] #MoboSens #water,2013-10-01 16:47:07,251482498,76,8.0,76.08
+385084380995018752,37.404,-121.974,[11:49:28 AM 2013-10-01|SGH-i917|Glucose|-653.677|mg/dL] #MoboSens #water Mobosens yeah,2013-10-01 16:50:45,251482498,76,8.0,76.08
+385086181743931392,37.40415795,-121.97634143,You know you're in the Silicon Valley when you've seen more than one person wearing @googleglass #health2con http://t.co/Q0R7HrySdA,2013-10-01 16:57:54,369868245,76,8.0,76.08
+385088585529319424,37.40440899,-121.97532177,#tcsummitt2013 repping @googlelocalsf (@ Santa Clara Convention Center w/ 13 others) [pic]: http://t.co/QAF21qXIiv,2013-10-01 17:07:28,17443395,76,8.0,76.08
+385090063886868480,37.4045,-121.97421,The @Zamzee booth at the #health2con! Love these guys. Via @derekgordon @healthline (at @SantaClaraCA) [pic] — https://t.co/g3fEa8EMZm,2013-10-01 17:13:20,697593,76,8.0,76.08
+385090574514016257,37.40415652,-121.97635269,"@Becomingother: Geographic info, with toxic release data layer. Where do you live? #health2con #environment http://t.co/O5eJyN04cv",2013-10-01 17:15:22,1191577063,76,8.0,76.08
+385092845276651520,37.404,-121.974,[12:23:06 PM 2013-10-01|SGH-i917|Glucose|-653.677|mg/dL] #MoboSens #water,2013-10-01 17:24:23,251482498,76,8.0,76.08
+385093295254155264,37.40471662,-121.97610686,eClinicalHealth launches Clinpal™ http://t.co/XceCr3DuN2 #clinicaltrials,2013-10-01 17:26:10,41080826,76,8.0,76.08
+385093350010802176,37.40416747,-121.97633233,@startuphealth's @PolinaHanin on stage at #health2con announcing tonight's party! RSVP http://t.co/UL3DGwtQPr http://t.co/5CzBdQuaGS,2013-10-01 17:26:23,717096558,76,8.0,76.08
+385095198302167040,37.40458553,-121.97587504,Pitching starting at Ballroom C #health2con w Team Finland w @SitraFund @Tekesfi,2013-10-01 17:33:44,41080826,76,8.0,76.08
+385095438983909376,37.40472473,-121.97618439,Team Finland breakout session about to begin #teamfinland #health2con http://t.co/DqBbPfwEzR,2013-10-01 17:34:42,139686099,76,8.0,76.08
+385096241836589056,37.40450372,-121.9759589,Finally focusing on quality and cost together- checking out demos at improving inpatient experience #health2con,2013-10-01 17:37:53,1066705878,76,8.0,76.08
+385096577141858304,37.40472435,-121.97618973,"Michael Quarshie, MealLogger up ""Healthy eating is contagious"" #health2con #teamfinland",2013-10-01 17:39:13,139686099,76,8.0,76.08
+385096857476550656,37.40472435,-121.97618973,"Kristian Ranta, Mendor ""We have in dream in the new diabetes movement."" #teamfinland #health2con",2013-10-01 17:40:20,139686099,76,8.0,76.08
+385097386697048065,37.40475307,-121.97614861,"Vesa Tornberg, Laturi: ""I have energy for my work and freetime according to our Laturi energy test"" #teamfinland #health2con",2013-10-01 17:42:26,139686099,76,8.0,76.08
+385097807692316672,37.40440899,-121.97532177,Kicking it! @robinef  launching #HILA (w/ #StartUpHealth &amp; @adamrosante) at #Health2Con @ Santa Clara… http://t.co/uJ5xlH82iC,2013-10-01 17:44:06,14476196,76,8.0,76.08
+385097834673868800,37.40469689,-121.97612968,"Nelli Lähteenmäki, Health Puzzle ""We turn health data into healthy actions"". #teamfinland #health2con",2013-10-01 17:44:13,139686099,76,8.0,76.08
+385098691918311424,37.40487,-121.97424,At the @Healthline exhibit at #health2con playing Concept Link! Via @derekgordon [pic] — https://t.co/AuJDZFg8Iv,2013-10-01 17:47:37,697593,76,8.0,76.08
+385099349278986241,37.40475763,-121.97615521,"Markus Mäntynen, RecoApp ""we can offer you highly scalable solution for health &amp; fitness"". #teamfinland #health2con",2013-10-01 17:50:14,139686099,76,8.0,76.08
+385099846916382720,37.40470439,-121.97618382,"Pasi Korhonen, EPID Research ""Suprises in drug use safety may kill a million dollar business - instantly."" #teamfinland #health2con",2013-10-01 17:52:12,139686099,76,8.0,76.08
+385099936028569600,37.40463587,-121.97598985,@Crankthesirens Nice to hear!!  :),2013-10-01 17:52:34,41080826,76,8.0,76.08
+385100134138142720,37.40458009,-121.97599153,@d00minator pretty interesting stuff!,2013-10-01 17:53:21,41080826,76,8.0,76.08
+385100266711707648,37.40467939,-121.97612896,"Janne Niittymäki, Serious Games: ""Where is the fun factor in a piece of paper?"" #teamfinland #health2con",2013-10-01 17:53:53,139686099,76,8.0,76.08
+385101029538156544,37.40477112,-121.97621663,"Kimmo Korhonen, Corefox: ""Virtual trainer creates overall fitness programs"" #teamfinland #health2con",2013-10-01 17:56:54,139686099,76,8.0,76.08
+385101557601009664,37.40470487,-121.97615262,"Niko Karstikko, SportSetter: ""In this fragmented market, consider Sportsetter as your personal concierge"" #teamfinland #health2con",2013-10-01 17:59:00,139686099,76,8.0,76.08
+385102261422006272,37.40476168,-121.97619825,"Marianne Ehrnrooth, Relaxbirth: ""I am happy to tell you that there is finally an easier way to give birth."" #teamfinland #health2con",2013-10-01 18:01:48,139686099,76,8.0,76.08
+385103410858819584,37.4017879,-121.9784864,Debating if I should skip the salad today and eat pizza lol,2013-10-01 18:06:22,440628072,76,8.0,76.08
+385103552575569920,37.40476435,-121.97619699,"Juha Pinomaa, Omegawave: ""Philadelphia Eagles and Seattle Seahawks are using our system. "" #teamfinland #health2con",2013-10-01 18:06:56,139686099,76,8.0,76.08
+385104353050501120,37.4018049,-121.9785443,@internetkatelyn ...nvm just got grossed out,2013-10-01 18:10:07,440628072,76,8.0,76.08
+385105577371652096,37.40452022,-121.97540041,"Why MDs answer online med concerns free: fun, learn from colleagues, build a reputation, grow their practice, to help people :) #health2con",2013-10-01 18:14:59,369868245,76,8.0,76.08
+385111144110637057,37.40440855,-121.97419724,@Litespritegames: 2nd place at the #rwjf #games to generate #data!! Woot! Demoing from 12-2pm! Check our #app out! #health2con,2013-10-01 18:37:06,1191577063,76,8.0,76.08
+385111966030651392,37.40475201,-121.97624458,"All these mHealth apps are really cool, but sound FX are impt detail. Repeated powered turning sound might get annoying fast! #health2con",2013-10-01 18:40:22,252447857,76,8.0,76.08
+385112601908105217,37.40476456,-121.97622291,Color considerations for the color-blind is unfortunately lacking in some mHealth apps. #health2con,2013-10-01 18:42:54,252447857,76,8.0,76.08
+385112626377670657,37.40441409,-121.97543865,Consider putting your phone on Do Not Disturb mode during live app demos so you don't decline your father's phone call mid-demo #health2con,2013-10-01 18:42:59,369868245,76,8.0,76.08
+385113029076987904,37.4047802,-121.97617585,"To be fair, I can see a lot of user-centered principles at work. But details are important in UX too. #health2con",2013-10-01 18:44:35,252447857,76,8.0,76.08
+385113602568376320,37.40475137,-121.976198,One big UX detail in mHealth apps - why the all-caps everywhere? Makes things harder to read. #health2con,2013-10-01 18:46:52,252447857,76,8.0,76.08
+385114173832572929,37.4043865,-121.97549615,@kingshukdas happy to meet to share more. Thanks for coming to demo!,2013-10-01 18:49:08,88931390,76,8.0,76.08
+385115275034497025,37.40442591,-121.97549791,Putting people in a role which uses chemo to fight cancer in a video game can shift attitudes in cancer patients #health2con #gamification,2013-10-01 18:53:31,369868245,76,8.0,76.08
+385115886069096448,37.40438825,-121.97559041,Checking out @joberfest from @MangoHealth on gamefication of healthcare. http://t.co/2wmYGeAkuO,2013-10-01 18:55:57,22538164,76,8.0,76.08
+385119322458562561,37.40440899,-121.97532177,Conventioning.... #health2con (@ Santa Clara Convention Center w/ @aoconnornd) http://t.co/mMdW8JsYvs,2013-10-01 19:09:36,146676523,76,8.0,76.08
+385119496647614464,37.40445985,-121.97551699,#Gamification is successful when we can change a person's motivation--the things we HAVE to do become things we GET to do #health2con,2013-10-01 19:10:17,369868245,76,8.0,76.08
+385119544676593664,37.40471446,-121.97619766,"Ugh I still hate hate haaaaate the word ""compliance."" #health2con",2013-10-01 19:10:29,252447857,76,8.0,76.08
+385120013100646400,37.40465192,-121.97608119,"I still think we could, ya know, ask patients about why they don't take their pills. A good interviewer might glean impt info. #health2con",2013-10-01 19:12:20,252447857,76,8.0,76.08
+385120218520899584,37.40472444,-121.97612606,And so many ppl aren't aware of cost-saving options and other things. We're making assumptions that everyone's an e-patient. #health2con,2013-10-01 19:13:09,252447857,76,8.0,76.08
+385120550424555520,37.40469627,-121.97610874,The adherence panel is suggesting pts don't take drugs bc it makes them feel old and sick but they take supplements. #health2con,2013-10-01 19:14:29,252447857,76,8.0,76.08
+385120823687651328,37.404,-121.974,[12:16:05 PM 2013-10-01|Lumia 900|Glucose|-653.677|mg/dL] #MoboSens #water,2013-10-01 19:15:34,251482498,76,8.0,76.08
+385120902410547200,37.40468338,-121.97609961,It is possible that the ppl not taking drugs are the ppl also NOT taking supplements. Can't assume overlap.  #health2con,2013-10-01 19:15:52,252447857,76,8.0,76.08
+385123765077557248,37.40440509,-121.97456698,@RebarInter hey - we're in the exhibit hall C way in the back by the @health2con booth. Grab and sandwich and come chat.,2013-10-01 19:27:15,22538164,76,8.0,76.08
+385124171933421570,37.40441762,-121.97545441,"Badges/points aren't motivating enough for people to use health apps daily, Apps should allow interaction with other people #health2con",2013-10-01 19:28:52,369868245,76,8.0,76.08
+385130306359291904,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/Mt1dvFsh3n",2013-10-01 19:53:15,36204256,76,8.0,76.08
+385130338336657408,37.40225691,-121.97781184,"I'm at Santa Clara Stadium (Santa Clara, CA) http://t.co/dT6vM9gkRp",2013-10-01 19:53:22,36204256,76,8.0,76.08
+385130371937206272,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) w/ 8 others http://t.co/3moOC2chr3",2013-10-01 19:53:30,36204256,76,8.0,76.08
+385135957265367041,37.4020066,-121.978594,Enterain me,2013-10-01 20:15:42,440628072,76,8.0,76.08
+385140793427890177,37.40506638,-121.97660674,"I'm at Hyatt Regency Santa Clara (Santa Clara, CA) http://t.co/QK5Wf1faW4",2013-10-01 20:34:55,48327400,76,8.0,76.08
+385140937539989505,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) w/ 8 others http://t.co/O9DddBCsWb",2013-10-01 20:35:29,48327400,76,8.0,76.08
+385144198095073281,37.40417599,-121.97527137,Super. Recorded e-notary videos discussing wishes for Advanced Directives proves useful to families seeking acceptance. #health2con #Vimty,2013-10-01 20:48:27,369868245,76,8.0,76.08
+385146806608596993,37.40440899,-121.97532177,"Presis naulattu! Conferenssi hotellin altaalla etätyötä ""tehden"" eli verkostuen :) Bileet illalla -… http://t.co/FXU4nbUfRP",2013-10-01 20:58:49,610091399,76,8.0,76.08
+385149995894439936,37.40440899,-121.97532177,Mc Aurora in mission with Rahman MD Yo! rahjohnson @rahmanjohnaonmd @hackbigchoices @ Santa Clara… http://t.co/F0kGfpHArp,2013-10-01 21:11:29,21988570,76,8.0,76.08
+385150465941311488,37.40414205,-121.97559482,"October 1st, seems like a perfect day to attend a session on the Health Care Marketplaces #openenrollment #health2con",2013-10-01 21:13:21,369868245,76,8.0,76.08
+385152759571312640,37.40198511,-121.97764398,Why the hell is my dad making me do a job idk even how to do... I'm not a magician lol,2013-10-01 21:22:28,90293878,76,8.0,76.08
+385155081605095424,37.40414686,-121.97600536,@RebarInter @Brock_Heinz - OM Signal won the Launch audience vote. I'll see what I can so to get one for #clinicaltrials #want #health2con,2013-10-01 21:31:41,22538164,76,8.0,76.08
+385156459358470145,37.404,-121.974,[16:35:54 PM 2013-10-01|SGH-i917|Glucose|-328.129|mg/dL] #MoboSens #water,2013-10-01 21:37:10,251482498,76,8.0,76.08
+385157418474561536,37.4035406,-121.97501843,"I'm at Health 2.0 @ Santa Clara Convention Center (Santa Clara, CA) http://t.co/vhiMbCV4iR",2013-10-01 21:40:59,21757052,76,8.0,76.08
+385158572708859905,37.40413819,-121.97537051,@laurashapland @kickingpixels @omsignal how do I get an OM Signal shirt? Take my money!,2013-10-01 21:45:34,22538164,76,8.0,76.08
+385159287535706112,37.40414943,-121.97560511,"Hooray! Unlike other govt sites, the #govtshutdown didn't affect http://t.co/NiWJmbZSsO #openenrollment #health2con http://t.co/DL46Ervy9v",2013-10-01 21:48:24,369868245,76,8.0,76.08
+385159799479869441,37.40550734,-121.9762395,@rodley that's what happens when people in charge have never been fiscally responsible for a business,2013-10-01 21:50:26,46332443,76,8.0,76.08
+385161306078060545,37.40416404,-121.9763313,"In the next 5 years, consumers are going to be the CEO's of our own health. #health2con #Solohealth",2013-10-01 21:56:25,22538164,76,8.0,76.08
+385161724992958464,37.40440899,-121.97532177,Health 2.0 main stage. #health2con #santaclara #siliconvalley #ca #hit #ehealth #ehr @americanehr @… http://t.co/J0ZutHeOKr,2013-10-01 21:58:05,18589039,76,8.0,76.08
+385162199515152384,37.40484797,-121.97669808,This is what your doctor will look like in the future. #health2con http://t.co/SUa2dCUzc3,2013-10-01 21:59:58,139686099,76,8.0,76.08
+385163035431563264,37.40413684,-121.97523619,Hi Dr Nick!  Nice to meet you last night. I'm all in for the walking gallery jacket. Sold @drnic1 #health2con,2013-10-01 22:03:18,22538164,76,8.0,76.08
+385163594960080897,37.404,-121.974,[17:04:16 PM 2013-10-01|SGH-i917|Glucose|-446.887|mg/dL] #MoboSens #water,2013-10-01 22:05:31,251482498,76,8.0,76.08
+385164207362015232,37.40413789,-121.97534704,"@gamificationco Yes! Check out @HopeLab research behind ""Re-Mission 2"" cancer-fighting games designed to increase chemotherapy Tx adherence",2013-10-01 22:07:57,369868245,76,8.0,76.08
+385164718261796864,37.40415666,-121.97594173,Demos around the healthcare xchange to support finding insurance and paying for treatment - quality v price is key @health2con #Obamacare,2013-10-01 22:09:59,22538164,76,8.0,76.08
+385165683798978560,37.40441604,-121.97420472,Schrezer and Colon on Friday. Game on #OAKtober,2013-10-01 22:13:49,66750681,76,8.0,76.08
+385165886232879104,37.402775,-121.975767,Medvoy CEO launching the referral platform at #health20 http://t.co/TdNqFSqoUW,2013-10-01 22:14:37,18942990,76,8.0,76.08
+385172011850280960,37.40439413,-121.97420326,The Nokia Sensing XChallenge is hitting all my biologist buttons. Who knew you could geek out about qPCR at #health2con?,2013-10-01 22:38:58,252447857,76,8.0,76.08
+385176550506643456,37.404,-121.974,[15:57:33 PM 2013-10-01|Lumia 900|Glucose|-653.677|mg/dL] #MoboSens #water,2013-10-01 22:57:00,251482498,76,8.0,76.08
+385182589440376832,37.404,-121.974,[16:21:31 PM 2013-10-01|Lumia 900|Glucose|-653.677|mg/dL] #MoboSens #water,2013-10-01 23:21:00,251482498,76,8.0,76.08
+385186851696308224,37.4041783,-121.97539263,@gethula the Yelp for STD Testing. Results on app that you can also share with others. #Unmentionables #health2con,2013-10-01 23:37:56,369868245,76,8.0,76.08
+385193258587938816,37.40421849,-121.97590334,"""With respect to @sherylsandberg, women are leaning in but it's mostly at the bar""@GabrielleGlaser #womenshealth #unmentionables #health2con",2013-10-02 00:03:24,369868245,76,8.0,76.08
+385194899559419904,37.40440899,-121.97532177,Mr. Shakes is back in the town #bartender #label #party #startup #health2con #life #awesome… http://t.co/fpoWIfEMh2,2013-10-02 00:09:55,610091399,76,8.0,76.08
+385194990995271680,37.4041748,-121.97606659,""" The purpose of our existence is happiness - Aristotle "" #health2con",2013-10-02 00:10:17,11511922,76,8.0,76.08
+385195327055474688,37.40417099,-121.97608185,"""Our brains Are hard wired to seek happiness, yet we are Superbad at predicting what can sustain it!"" #health2con",2013-10-02 00:11:37,11511922,76,8.0,76.08
+385196594586337280,37.40417145,-121.97581724,"If you ask yourself why you do something enough times, happiness becomes the answer- @JennLim #health2con #unmentionables",2013-10-02 00:16:39,369868245,76,8.0,76.08
+385197123295133696,37.40415822,-121.97598805,Finding happiness becomes a vicious cycle that never ends. @JennLim #health2con #scienceofhappiness,2013-10-02 00:18:45,369868245,76,8.0,76.08
+385197467660480512,37.40416718,-121.97606659,"""Key to sustaining happiness is finding that higher purpose, vision, meaning"" #health2con",2013-10-02 00:20:07,11511922,76,8.0,76.08
+385198182441177088,37.40440899,-121.97532177,#health2con (@ Santa Clara Convention Center w/ 2 others) http://t.co/wgDXl42pdK,2013-10-02 00:22:57,17096359,76,8.0,76.08
+385200368776642560,37.40416336,-121.97601318,"""You can run from everything, but from yourself"" #health2con",2013-10-02 00:31:39,11511922,76,8.0,76.08
+385212111548198912,37.40448028,-121.97459397,#teamfinland up again in the exhibit C. Come on down and checkout. #health2con,2013-10-02 01:18:18,139686099,76,8.0,76.08
+385212230532214784,37.40444885,-121.97422404,@jussijsalonen: #teamfinland up again in the exhibit B. Come on down and checkout. #health2con,2013-10-02 01:18:47,139686099,76,8.0,76.08
+385212337113690113,37.40453137,-121.97423824,#teamfinland up again in the exhibit B. Come on down and checkout. #health2con,2013-10-02 01:19:12,139686099,76,8.0,76.08
+385216359715459072,37.40453786,-121.97441627,Matthew Holt closing the pitching session for Team Finland. #health2con http://t.co/bE3wTGf5Gd,2013-10-02 01:35:11,139686099,76,8.0,76.08
+385218199509139456,37.40451445,-121.97583453,Nokia Sensing XCHALLENGE Awards http://t.co/YIxgkIas6B,2013-10-02 01:42:30,14135096,76,8.0,76.08
+385231639921455105,37.40485951,-121.97670618,#health2con @JennLim says  happy organisations are productive and effective. How do we improve the happiness index in @NHSEngland?,2013-10-02 02:35:54,19507955,76,8.0,76.08
+385231645764489217,37.40440899,-121.97532177,"Ok glass, give me a beer :) @nordicventure #throughglass #glass #health2con #santaclara #beer #startup… http://t.co/8zPeBk0zGO",2013-10-02 02:35:56,610091399,76,8.0,76.08
+385264901330980864,37.40515802,-121.97702546,I not so secretly love when people call me darling,2013-10-02 04:48:05,229674329,76,8.0,76.08
+385265863064317952,37.4025489,-121.97687209,"I'm at Hilton Santa Clara (Santa Clara, CA) http://t.co/lLAIQlUJ6h",2013-10-02 04:51:54,109355807,76,8.0,76.08
+385285057067245568,37.40279376,-121.97657042,Welcome to America. http://t.co/znBoAiQdPo,2013-10-02 06:08:10,16124644,76,8.0,76.08
+385398076388954112,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/2vBiQoVRvQ",2013-10-02 13:37:16,26115614,76,8.0,76.08
+385411186847924224,37.40440899,-121.97532177,CSU is so fancy! @ Santa Clara Convention Center http://t.co/mIon34Jafh,2013-10-02 14:29:22,139303993,76,8.0,76.08
+385418824771584000,37.40633864,-121.9760815,Deeeeeyum a lot of y'all brought crud back from RF :( feel better!,2013-10-02 14:59:43,25581877,76,8.0,76.08
+385423134574542848,37.40440899,-121.97532177,Health 2.0 - Big Data: Tools and Applications for Transforming Care #health2con (@ Santa Clara Convention Center) http://t.co/EhCdUHjEvz,2013-10-02 15:16:50,169585114,76,8.0,76.08
+385423625471279104,37.40266877,-121.97698998,"@jeffbigham @bjo3rn actually, I'm tweeting from Santa Clara and have been up for hours. :) Lazy academics.",2013-10-02 15:18:47,16124644,76,8.0,76.08
+385423662029221888,37.40440899,-121.97532177,Day 3 #Health2Con (@ Santa Clara Convention Center w/ 5 others) [pic]: http://t.co/7OjpBzbaQL,2013-10-02 15:18:56,146676523,76,8.0,76.08
+385423925607673857,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/mS8MAlCJ79,2013-10-02 15:19:59,36204256,76,8.0,76.08
+385423953042632704,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) w/ 2 others http://t.co/tTS0QZMI6x",2013-10-02 15:20:05,36204256,76,8.0,76.08
+385423992049639424,37.4022281,-121.97815059,"I'm at The Server Room - @citrixux (Santa Clara, CA) http://t.co/N4xh8wrisJ",2013-10-02 15:20:15,36204256,76,8.0,76.08
+385424035351646208,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/yWAHtvYdWE",2013-10-02 15:20:25,36204256,76,8.0,76.08
+385426898689347584,37.40413172,-121.97575334,IBM Care Flow is an amazing data visualization to help physicians choose smarter care paths. Blown away. #health2con http://t.co/whoa7c8Klr,2013-10-02 15:31:48,229674329,76,8.0,76.08
+385426982340542465,37.40415678,-121.97594209,Big Data. #health2con,2013-10-02 15:32:08,369868245,76,8.0,76.08
+385431218193326080,37.40413203,-121.97582701,@hconstandt Sounds purely exploratory. Don't know how it would work in a doc workflow but could be extremely useful for analyzing guidelines,2013-10-02 15:48:58,229674329,76,8.0,76.08
+385431564001099778,37.40415881,-121.97636373,@hconstandt I love that it looks like google analytics site flow. The usability factor is huge if it were to be used by docs,2013-10-02 15:50:20,229674329,76,8.0,76.08
+385432244456026112,37.40226662,-121.97808951,"I'm at Citrix Secret Room (Santa Clara, CA) http://t.co/1K9fdmBq4D",2013-10-02 15:53:02,36204256,76,8.0,76.08
+385432272750780416,37.40229683,-121.97815059,"I'm at Citrix Cafeteria (Santa Clara, CA) http://t.co/TFvVjaKsNo",2013-10-02 15:53:09,36204256,76,8.0,76.08
+385432507896053761,37.40221872,-121.97805619,"I'm at Citrix Solutions Lab (Santa Clara, CA) http://t.co/GgndNTdHfo",2013-10-02 15:54:05,36204256,76,8.0,76.08
+385435552096735232,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/UAENv2OVMP",2013-10-02 16:06:11,36204256,76,8.0,76.08
+385435601161715712,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) w/ 12 others http://t.co/3kECV8wBa8",2013-10-02 16:06:23,36204256,76,8.0,76.08
+385435637522132992,37.40225691,-121.97781184,"I'm at Santa Clara Stadium (Santa Clara, CA) http://t.co/7vwitiy1CG",2013-10-02 16:06:31,36204256,76,8.0,76.08
+385441931452379136,37.40363467,-121.97786559,“@jenneeezzzy: Hope to grow boobs one day” same here,2013-10-02 16:31:32,90293878,76,8.0,76.08
+385442125187272705,37.40358756,-121.97789921,My dad is singing  along to pursuit of hapiness with me it's real yo,2013-10-02 16:32:18,90293878,76,8.0,76.08
+385445000789499905,37.40412555,-121.97550934,@health2con  Just in time discrete data is available. Bugs and drugs is a new tool available to effectively treat infections thru epocrates.,2013-10-02 16:43:44,1619193787,76,8.0,76.08
+385446335757160448,37.40506638,-121.97660674,I could get used to this office view #health20con @ Hyatt Regency Santa Clara http://t.co/fJiFpAh7rl,2013-10-02 16:49:02,717096558,76,8.0,76.08
+385447273162747905,37.40417126,-121.9761865,@Allscripts launches app site allowing start-ups to integrate with their system--a transformative step in the right direction! #health2con,2013-10-02 16:52:45,369868245,76,8.0,76.08
+385448129656401920,37.40416604,-121.975399,@health2con  JIT data is available to effectively manage infections thru bugs and drugs download Epocrates.,2013-10-02 16:56:10,1619193787,76,8.0,76.08
+385449455220047872,37.4013681,-121.9783986,Nothing against young single moms but damn seems like that's all Ive been encountering,2013-10-02 17:01:26,440628072,76,8.0,76.08
+385450966134190080,37.40416653,-121.9763644,#nokiaxchallenge #health2con  #xprize http://t.co/fftK5evmcb,2013-10-02 17:07:26,1857234884,76,8.0,76.08
+385452135522918400,37.40416417,-121.97559305,@adamperer nice demo!,2013-10-02 17:12:05,229674329,76,8.0,76.08
+385452400745938944,37.40440899,-121.97532177,University counselors conference - the #admissions process to #Universities its complex and highly competitive [pic]: http://t.co/qkuCRjW2CO,2013-10-02 17:13:08,303521935,76,8.0,76.08
+385453350377885696,37.40393575,-121.97634302,Nokia sensing challenge @NokiaXCHALLENGE  winner about to be announced by @xprize #health2con  #futuremed http://t.co/P78UItWXDZ,2013-10-02 17:16:54,17240190,76,8.0,76.08
+385455758814760960,37.4019176,-121.9786205,Cant wait for friday A's vs The Tigers we got this #greencollar #OAKtober @Athletics,2013-10-02 17:26:29,440628072,76,8.0,76.08
+385457706087092225,37.40415058,-121.97627521,Congrats to the team #Nanobiosym Health RADAR! http://t.co/9JTYpny5Gr,2013-10-02 17:34:13,1857234884,76,8.0,76.08
+385458123751706626,37.40366531,-121.97644897,Congrats to team @Nanobiosym winner of the @NokiaXCHALLENGE @xprize  #futuremed #health2con #mhealth http://t.co/pByncPlrWH,2013-10-02 17:35:52,17240190,76,8.0,76.08
+385471884201963520,37.40442785,-121.97408209,Nice booth by sponsor @athenaMDP  at #health2con http://t.co/mhLm4dVnOA,2013-10-02 18:30:33,46332443,76,8.0,76.08
+385476645647167488,37.404412,-121.97535131,"Heard at least a dozen times from Mac people forced to use PCs to do their presentations at @health2con, ""How do I scroll?""",2013-10-02 18:49:28,14953117,76,8.0,76.08
+385477164620996608,37.40472646,-121.97621734,@health2con  Population Health needs to look beyond the clinic and look to the community if you expect to have impact.,2013-10-02 18:51:32,1619193787,76,8.0,76.08
+385479736396234752,37.40423355,-121.97609112,"Pharma needs and want help from innovative healthIT, but they want evidence before they take risks. #clinicaltrials #health2con",2013-10-02 19:01:45,252447857,76,8.0,76.08
+385480121756311553,37.40432976,-121.97570275,".@rzeiger suggests emphasizing solving problem instead of focusing on ""disruption."" Co's don't want new, they want solutions. #health2con",2013-10-02 19:03:17,252447857,76,8.0,76.08
+385482356892516352,37.40452992,-121.97598168,"Beyond activity trackers there is iMuscle which helps workout planning, sharing and anatomic insight: http://t.co/IFq5fvdyPc #health2con",2013-10-02 19:12:10,359936820,76,8.0,76.08
+385482714448547840,37.40419142,-121.97627911,"We have to offer disruptive solutions for review boards for clinical trial system to continue, but we can't ignore them. #health2con",2013-10-02 19:13:35,252447857,76,8.0,76.08
+385485063023894528,37.40442897,-121.97588899,"Don Jones: San Diego's collaboration atmosphere and university system created the 2nd largest biotech concentration"" #health2con",2013-10-02 19:22:55,139686099,76,8.0,76.08
+385486817526824960,37.40440899,-121.97532177,#health2con (@ Santa Clara Convention Center w/ 9 others) http://t.co/WlrwRVUcXj,2013-10-02 19:29:53,464146711,76,8.0,76.08
+385490976350801920,37.40430137,-121.97563106,DATA. find a way to collect it &amp; use it.“@Sermo: What do u think are the trends coming out of #health2con?  Would love to hear ur thoughts.”,2013-10-02 19:46:25,21039622,76,8.0,76.08
+385491691039232000,37.40430078,-121.97563232,but I think patient physician relationships are not stressed enough in HealthTech world. “@Sermo: What do u think r the trends @health2con?,2013-10-02 19:49:15,21039622,76,8.0,76.08
+385494595275997184,37.4046981,-121.97615685,"Great job presenting at the @health2con ""10 Start-ups to Watch"" deep dive @ThoroughCare! @TheIronYard #health2con",2013-10-02 20:00:48,369868245,76,8.0,76.08
+385496948347637760,37.4045778,-121.97585501,"Incredible! Low cost, non-intrusive screening of breast cancer using saliva! ""10 Start-ups to watch"" @primegenomics #health2con",2013-10-02 20:10:09,369868245,76,8.0,76.08
+385506594986815488,37.40490221,-121.97671809,@cvander sí Chris! Veamonos mañana y vayamos al happy hour de Facebook HQ el viernes!,2013-10-02 20:48:29,290731176,76,8.0,76.08
+385507832306466816,37.40473789,-121.97643111,@ManeeshJuneja I commend you for putting your job on the line I'm the name of disruptive innovation.  Remember - we're the crazy ones.,2013-10-02 20:53:24,22538164,76,8.0,76.08
+385509850655911936,37.40419542,-121.97626909,Use simple tools to do great things. #mHealth #health2con,2013-10-02 21:01:25,252447857,76,8.0,76.08
+385512727650643968,37.40443681,-121.97470017,Great panels @health2con http://t.co/mmJIqQL5s7,2013-10-02 21:12:51,1003031816,76,8.0,76.08
+385515848317673472,37.40443346,-121.97529715,Who knew Band-Aid swag could be so useful? Thank you @caresync! #blisters #health2con,2013-10-02 21:25:15,252447857,76,8.0,76.08
+385519899738521600,37.40436759,-121.97590545,My trip to the #SiliconValley is pretty much complete. Mission accomplished. @googleglass #health2con http://t.co/vyMryRFayF,2013-10-02 21:41:21,369868245,76,8.0,76.08
+385528422350336000,37.40293628,-121.97697489,Show them as much attention they showin you.?,2013-10-02 22:15:13,118594397,76,8.0,76.08
+385531503142137856,37.40349452,-121.97638208,"@Zee_netoo Nem sabia que tu conhecia ele, haha! Po, ele nem foi no treino hoje",2013-10-02 22:27:27,240084561,76,8.0,76.08
+385532132258361345,37.40349452,-121.97638208,"@JuulioLopes Parabéns ai, feraa! Tudo de bom sempre, felicidades, sucesso, saude e tal! Aquele abraaço",2013-10-02 22:29:57,240084561,76,8.0,76.08
+385544242954657792,37.40421907,-121.97611564,"@Alex_Cao Yes, @googleglass is pretty tech-y but there are so many possibilities for it in healthcare. Let's chat about it next time.",2013-10-02 23:18:05,369868245,76,8.0,76.08
+385545059434635264,37.40417467,-121.97632485,"Heh, to stump AI, try small-talk. ;) #future #health2con",2013-10-02 23:21:19,252447857,76,8.0,76.08
+385545561094361089,37.40621483,-121.97660809999999,What's going on in my building right now? A stream of 100+ men are going up the escalators. #NoInvite,2013-10-02 23:23:19,245434552,76,8.0,76.08
+385549002046853121,37.40421065,-121.97616896,#MedX and #health2con themes comes together at http://t.co/Qsttc1Teaf Donate your genomic data to help scientists parse out the BRCA genes,2013-10-02 23:36:59,252447857,76,8.0,76.08
+385550629155766273,37.40422892,-121.97614011,Thank you @bluetopaz and @boltyboy for a great @health2con conference! #health2con,2013-10-02 23:43:27,369868245,76,8.0,76.08
+385553603261235202,37.40428001,-121.97584924,Thanks for sharing the Kids teaching Kids in India project! What an amazingly inpiring initiative!! Great way to end the #health2con 2013 :),2013-10-02 23:55:16,65178447,76,8.0,76.08
+385585656816103424,37.40566728,-121.977087,We know where the popular hangout is @cooperdoty @hannahsinghs @gabbygoose22,2013-10-03 02:02:39,1070132072,76,8.0,76.08
+385587146448326657,37.40465634,-121.97658475,"Just visited @usmarketaccess and @RocketSpace w/ #teamfinland  in Frisco. Great atmosphere, awesome people. #startup http://t.co/cgMx2kx4Jv",2013-10-03 02:08:34,139686099,76,8.0,76.08
+385587727917256705,37.40481752,-121.97659861,"Want to work for one of the coolest companies out there, Tesla Motors, now in Finland http://t.co/7MZP93YwRB #Tesla",2013-10-03 02:10:52,41080826,76,8.0,76.08
+385590938342408192,37.40521929,-121.97652256,This says it all but many won't get it cc: @jonisick @CommsNinja @fdagosti http://t.co/eRLwtX5Nsr,2013-10-03 02:23:38,219083847,76,8.0,76.08
+385598000858681344,37.40620925,-121.97671781,Attending monthly #SVPMA (Silicon Valley Product Management  Association) meeting tonight with great panel. [pic]: http://t.co/rGQMjPlxjY,2013-10-03 02:51:42,25650069,76,8.0,76.08
+385625399620665345,37.40272476,-121.97691912,I work with some great people. Also: beer.,2013-10-03 04:40:34,16124644,76,8.0,76.08
+385626668926128128,37.40272729,-121.97691126,"@seanshaw sitting in pub in Santa Clara, alone. Come join me instead of waiting. Music is better here.",2013-10-03 04:45:37,16124644,76,8.0,76.08
+385627165842083840,37.4027129,-121.97692693,"@littlemissmocha One is a song, the other is a movie. :D",2013-10-03 04:47:35,16124644,76,8.0,76.08
+385627918254108672,37.40275367,-121.97696296,"The only time I'm really not happy to not be famous is when I'm in a strange city, alone.",2013-10-03 04:50:35,16124644,76,8.0,76.08
+385631841312452608,37.40277216,-121.97686572,@darrenhill1 @JordonCooper I'm not trying to be pissy. I'm just alone in Santa Clara and missing #yxe politics.,2013-10-03 05:06:10,16124644,76,8.0,76.08
+385781013039054849,37.4020658,-121.9787317,"U build ur self around ur relationship picking up his hobbies and his friends. Don't tell me ur doing u, ur more like a leech if anything.",2013-10-03 14:58:55,440628072,76,8.0,76.08
+385798825799344128,37.4020558,-121.9786957,Shooting range next weekend can't wait!... I would this weekend but I don't think I'll be able to function lol,2013-10-03 16:09:42,440628072,76,8.0,76.08
+385804429443624960,37.40172787,-121.97908794,@Jeanniebetch I was waiting for someone bc im an awesome friend and now he's here so =p,2013-10-03 16:31:58,440628072,76,8.0,76.08
+385805321916018688,37.401804,-121.97908747,@Jeanniebetch hahahaha wow can't wait for ur Asian bday shots and bags of chips,2013-10-03 16:35:31,440628072,76,8.0,76.08
+385808151565860864,37.4020441,-121.9786715,@Jeanniebetch yes! And no dork it's not like those Viet bars ur used to. But we can go to dennys after theres one in the area.,2013-10-03 16:46:45,440628072,76,8.0,76.08
+385808657906405377,37.4020801,-121.978639,@Jeanniebetch nope.. we can make it to la vics if ur dd isn't turnt,2013-10-03 16:48:46,440628072,76,8.0,76.08
+385809300570251265,37.4020759,-121.9786402,@Jeanniebetch  ..so I'm getting drunk for the both of us? Sweet u better hold my hair back when I spew,2013-10-03 16:51:19,440628072,76,8.0,76.08
+385819843205009408,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/QampXkV2eW,2013-10-03 17:33:13,36204256,76,8.0,76.08
+385819864856006657,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) http://t.co/4yXXUqR0Da",2013-10-03 17:33:18,36204256,76,8.0,76.08
+385819898578210816,37.4022281,-121.97815059,"I'm at The Server Room - @citrixux (Santa Clara, CA) http://t.co/FHx84BnGWV",2013-10-03 17:33:26,36204256,76,8.0,76.08
+385819962839158784,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) w/ 4 others http://t.co/SbJQbj3rpD",2013-10-03 17:33:41,36204256,76,8.0,76.08
+385825291215863808,37.40420495,-121.97786326,@Variety @cstephens Yay! Maybe Ichabod will finally get a change of clothes...,2013-10-03 17:54:52,14926952,76,8.0,76.08
+385826709486182400,37.40440899,-121.97532177,Autumn in California @ Santa Clara Convention Center http://t.co/l8ygRcFVPH,2013-10-03 18:00:30,1770331,76,8.0,76.08
+385861048085278720,37.40226662,-121.97808951,"I'm at Citrix Secret Room (Santa Clara, CA) http://t.co/YLuJgHPO8x",2013-10-03 20:16:57,36204256,76,8.0,76.08
+385861077063708674,37.40221872,-121.97805619,"I'm at Citrix Solutions Lab (Santa Clara, CA) http://t.co/k9QiOxYDES",2013-10-03 20:17:04,36204256,76,8.0,76.08
+385861099436134400,37.40229683,-121.97815059,"I'm at Citrix Cafeteria (Santa Clara, CA) http://t.co/hvapJfuda2",2013-10-03 20:17:09,36204256,76,8.0,76.08
+385863845841207297,37.40225691,-121.97781184,"I'm at Santa Clara Stadium (Santa Clara, CA) http://t.co/y5FVqbx89e",2013-10-03 20:28:04,36204256,76,8.0,76.08
+385863918964715520,37.40350132,-121.97447956,"I'm at VTA Great America (Santa Clara, CA) http://t.co/Yy8bbTKY0E",2013-10-03 20:28:21,36204256,76,8.0,76.08
+385863946332557313,37.40440899,-121.97532177,"I'm at Santa Clara Convention Center (Santa Clara, CA) http://t.co/bxitRo2yBw",2013-10-03 20:28:28,36204256,76,8.0,76.08
+385873050614239232,37.40289641,-121.9768134,At the @BluetoothSIG dev session. Invite iOS devs to take a look at YmsCoreBluetooth to manage BLE callbacks. http://t.co/fR0V7J7sWB,2013-10-03 21:04:39,14508364,76,8.0,76.08
+385881228244566016,37.40452146,-121.97394728,#HawkWare Treeview is getting big applause at the SolidWorks 2014 Launches! Have you downloaded the free app yet? http://t.co/jAke6JabXQ,2013-10-03 21:37:08,19004220,76,8.0,76.08
+385898671373430784,37.40653759,-121.97610997,@wu2bku Buko found this “@WhistlerChicago: Awesome ads seeking drummers: #1) https://t.co/ocZrj0xXSF #2) https://t.co/MTNRpOzykh”,2013-10-03 22:46:27,63720173,76,8.0,76.08
+385906162367229953,37.40350132,-121.97447956,Going home. (@ VTA Great America) http://t.co/QkzYOazAMl,2013-10-03 23:16:13,26115614,76,8.0,76.08
+385961504925040640,37.40506638,-121.97660674,Just had a great dinner at the lobby bar. (@ Hyatt Regency Santa Clara) http://t.co/dKS4W5AtIw,2013-10-04 02:56:08,25300236,76,8.0,76.08
+385989892259323904,37.40531189,-121.97645915,Work research. #bestmovieever #airplane http://t.co/r76Q4gqXM9,2013-10-04 04:48:56,21255185,76,8.0,76.08
+385991456407580672,37.40518331,-121.97665543,Testing twitter filter http://t.co/M2P00jdRwz,2013-10-04 04:55:09,96197994,76,8.0,76.08
+385994032934952960,37.40272623,-121.97698158,Dammit. I forgot to do a Foursquare checkin at GOOGLE!!!!  Frick.,2013-10-04 05:05:23,16124644,76,8.0,76.08
+386145324915765248,37.40506638,-121.97660674,Good morning from Silicon Valley! #work #coffee #niceview @ Hyatt Regency Santa Clara http://t.co/1Y3iGW1uSl,2013-10-04 15:06:34,21255185,76,8.0,76.08
+386157871307563008,37.40277748,-121.97636852,@sharongenest no. :),2013-10-04 15:56:25,16124644,76,8.0,76.08
+386163689596157952,37.40506638,-121.97660674,???? ???? ??!!! ?? ????? ??? ????? ????....??? ???? ?????? ?????? ???? ??? ??? ??? ??? ??........?? http://t.co/zy4XuziPHG,2013-10-04 16:19:32,129992859,76,8.0,76.08
+386169538523713536,37.402355299999996,-121.97851712,"I'm at Citrix Systems, Inc (Santa Clara, CA) http://t.co/qVKtpJs1Fc",2013-10-04 16:42:47,36204256,76,8.0,76.08
+386169563496595456,37.40199435,-121.97848935,I'm at Citrix Conference Centre http://t.co/04xZfA3CF1,2013-10-04 16:42:53,36204256,76,8.0,76.08
+386169587093757952,37.4022281,-121.97815059,"I'm at The Server Room - @citrixux (Santa Clara, CA) http://t.co/rT32ifDOJk",2013-10-04 16:42:58,36204256,76,8.0,76.08
+386169627346481152,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/BRutaEyC3B",2013-10-04 16:43:08,36204256,76,8.0,76.08
+386214718576156672,37.40505211,-121.97667303,Talking about #bigdata at the @ConstructechMag #TechDay,2013-10-04 19:42:19,25300236,76,8.0,76.08
+386215195925704704,37.40418,-121.97632971,@PACTSJ Celebrating Valleys Top Community Builders: honorees #SobratoFamilyFoundation &amp; Jose Antonio Vargas #philanthropists #siliconvalley,2013-10-04 19:44:12,56034314,76,8.0,76.08
+386221367768522752,37.40418985,-121.97636129,Jose Antonio Vargas talks about being an American kid but not an American citizen. #immigrationreform,2013-10-04 20:08:44,468985040,76,8.0,76.08
+386229664723005440,37.40229683,-121.97815059,"I'm at Citrix Cafeteria (Santa Clara, CA) http://t.co/maPVjZpn6a",2013-10-04 20:41:42,36204256,76,8.0,76.08
+386229694221524992,37.40226662,-121.97808951,"I'm at Citrix Secret Room (Santa Clara, CA) http://t.co/GBkP4m6hsS",2013-10-04 20:41:49,36204256,76,8.0,76.08
+386229711808245760,37.40221872,-121.97805619,"I'm at Citrix Solutions Lab (Santa Clara, CA) http://t.co/N5swLTRQfy",2013-10-04 20:41:53,36204256,76,8.0,76.08
+386231184197304321,37.40370125,-121.97786502,It's a beautiful day for a game today !! ?,2013-10-04 20:47:44,346226956,76,8.0,76.08
+386242760162160640,37.406075,-121.97670833,Tour and down payment for 2014 season tickets?? #OurNewHomeFaithfuls #LevisStadium #WherePassionBurns… http://t.co/hM16jjdgfq,2013-10-04 21:33:44,452728715,76,8.0,76.08
+386271004911468544,37.40440899,-121.97532177,Soo happy to announce #BodyCandy is the official #spraytanner for the #MissGreaterbayarea2013 &amp;… http://t.co/YrSkFxHErU,2013-10-04 23:25:58,1713757772,76,8.0,76.08
+386292209609637889,37.40440899,-121.97532177,#LevisStadium #49ers #SantaClara @ Santa Clara Convention Center http://t.co/38ZXkomwFl,2013-10-05 00:50:14,505272660,76,8.0,76.08
+386293255312125952,37.402743,-121.976559,lol @ cga,2013-10-05 00:54:23,816680238,76,8.0,76.08
+386304103397068802,37.40523634,-121.97714977,Hope everythings good tonight..,2013-10-05 01:37:30,505272660,76,8.0,76.08
+386322965711036416,37.4025489,-121.97687209,"I'm at Hilton Santa Clara - @hiltonsantaclar (Santa Clara, CA) http://t.co/ASa55LZgtt",2013-10-05 02:52:27,8680922,76,8.0,76.08
