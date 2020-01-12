@@ -36,7 +36,7 @@ def PreCache():
     print("Clusters: ", clusters_)
     print("DBSCANClusters: ", dbscan_clusters_)
     print("KMEANSClusters: ", kmeans_clusters_)
-
+    #cache.clear()
     for j in range(0,5):
         kmeans_data = Data.objects.filter(mb_cluster=kmeans_clusters_[j]).order_by('-popularity')[:15]
         dbscan_data = Data.objects.filter(db_cluster=dbscan_clusters_[j]).order_by('-popularity')[:15]
@@ -73,6 +73,7 @@ class dbscan_NonCachedAccess(APIView):
 
 class kmeans_CachedAccess(APIView):
     def get(self, request, *args, **kwargs):
+        #print(cache.keys('*'))
         Clusterid = request.GET["Cluster"]
         cached_tweets = cache.get("kmeans"+str(Clusterid))
         data = Data_Serializer(cached_tweets, many=True)
